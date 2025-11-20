@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>建站 on 生年的小站</title>
+        <link>https://our1111122222.github.io/tags/%E5%BB%BA%E7%AB%99/</link>
+        <description>Recent content in 建站 on 生年的小站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>建站笔记</title>
+        <link>https://our1111122222.github.io/p/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/p/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</guid>
+        <description>&lt;h2 id=&#34;基本管线-&#34;&gt;基本管线 ：
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Obsidian（笔记软件）+Hugo（开源网站生成器）+Stack （主题）+Git（托管）+Github Page（展示）&lt;/strong&gt;&lt;br&gt;
+将 Hugo 的文件放在 Obsidian 的文件目录下，然后通过 Obsidian Git 插件 push 到存放Hugo 文件的 Github 仓库，再通过 Github Action 触发动作生成静态页面，commit 到静态网页的 Github 仓库，最后通过 Github Page 进行展示。&lt;br&gt;
+Hugo+GitHub Page 教程：&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;【雷】Hugo + Github免费搭建博客，并实现自动化部署_哔哩哔哩_bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用技巧&#34;&gt;使用技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;综合修改：Hugo. Yaml&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emoji 表情插入：&lt;code&gt;:&lt;/code&gt; + &lt;code&gt;表情名字&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;网站大全&#34;&gt;网站大全
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;莱特雷-letere&lt;/a&gt;：大佬的Hugo + Github 网站&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo Themes&lt;/a&gt;：Hugo 的主题网站&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack | Card-style Hugo theme designed for bloggers&lt;/a&gt;：Stack 主题的网站&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.emojiall.com/zh-hans/all-emojis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;全部Emoji (3953) | Emojiall&lt;/a&gt;：Emoji 大全&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://tabler.io/icons&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tabler Icons: 4950+ free vector icons for web design&lt;/a&gt;：图标大全&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
