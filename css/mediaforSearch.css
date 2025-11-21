@@ -20,33 +20,75 @@
 #media-root .filter-row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
 #media-root .results-count { margin:8px 0 12px; color:#666; font-size:0.95rem; }
 #media-root .media-grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(220px,1fr)); gap:14px; }
-#media-root .media-card { background: rgba(255,255,255,0.96); border-radius:12px; overflow:hidden; box-shadow: 0 6px 20px rgba(32,43,63,0.06); cursor:pointer; display:flex; flex-direction:column; min-height:320px; transition: transform .12s ease, box-shadow .12s ease; }
+
+/* 卡片 — 关键：不要固定过高的 min-height（避免无图造成大量空白） */
+#media-root .media-card { background: rgba(255,255,255,0.96); border-radius:12px; overflow:hidden; box-shadow: 0 6px 20px rgba(32,43,63,0.06); cursor:pointer; display:flex; flex-direction:column; min-height:unset; transition: transform .12s ease, box-shadow .12s ease; }
 #media-root .media-card:hover { transform: translateY(-6px); box-shadow: 0 12px 30px rgba(32,43,63,0.12); }
 
 /* image */
 #media-root .img-wrap { width:100%; height:320px; overflow:hidden; position:relative; background:#eceff6; display:flex; align-items:center; justify-content:center; }
 #media-root .img-wrap img.cover { width:100%; height:100%; object-fit:cover; display:block; }
 
+/* overlay 出现在图片上（hover 显示 shortReview） */
+/* 注：JS 已做逻辑 —— 当 search 有关键词时不插入 overlay */
+#media-root .img-wrap .overlay {
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:12px;
+  text-align:center;
+  background: rgba(0,0,0,0.56);
+  color:#fff;
+  opacity:0;
+  transition: opacity .15s ease;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  box-sizing:border-box;
+  font-size:1.8rem;        /* 调小，别再太大 */
+  line-height:1.4;
+  overflow:hidden;
+}
+#media-root .img-wrap:hover .overlay { opacity:1; }
+
 /* badges, info */
 #media-root .year-badge { position:absolute; top:10px; right:10px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 8px; border-radius:8px; font-weight:600; font-size:1.1rem; }
-#media-root .media-rating { position:absolute; left:10px; bottom:10px; padding:6px 10px; border-radius:8px; background: rgba(0,0,0,0.75); color:#fff; font-size:1.2rem; font-weight:600; }
-#media-root .info { padding:12px; display:flex; flex-direction:column; gap:8px; flex:1; }
+/* 图片上的评分保留（用户要求） */
+#media-root .media-rating { position:absolute; left:10px; bottom:10px; padding:6px 10px; border-radius:8px; background: rgba(0,0,0,0.75); color:#fff; font-size:1.0rem; font-weight:600; }
+
+/* 卡片内部信息区域 */
+#media-root .info { padding:12px; display:flex; flex-direction:column; gap:8px; flex:1; box-sizing:border-box; }
 #media-root .title { font-weight:700; font-size:1rem; color:#0c2463; }
-#media-root .short-review { font-size:0.92rem; color:#333; line-height:1.35; max-height:3.6em; overflow:hidden; }
+
+/* 摘要/简介：限制行数（更紧凑） */
+#media-root .short-review {
+  font-size:0.92rem;
+  color:#333;
+  line-height:1.35;
+  display:block;
+  max-height:4.2em; /* 限制为约 3 行 */
+  overflow:hidden;
+  text-overflow:ellipsis;
+  -webkit-line-clamp:3;
+  -webkit-box-orient: vertical;
+}
+
+/* tags */
 #media-root .tag-list { display:flex; gap:6px; flex-wrap:wrap; }
 #media-root .tag { background:#f1f6ff; padding:4px 8px; border-radius:999px; font-size:0.82rem; color:#0852c2; cursor:pointer; border:1px solid rgba(8,82,194,0.07); }
 
-/* meta */
-#media-root .meta { display:flex; gap:10px; align-items:center; margin-top:auto; color:#666; font-size:0.92rem; }
+/* meta — 去掉 margin-top:auto（避免空白） */
+#media-root .meta { display:flex; gap:10px; align-items:center; color:#666; font-size:0.92rem; }
+
+/* stars 小样式 */
 #media-root .stars { margin-left:8px; }
-#media-root .highlight { background: #fff4a8; padding:0 2px; border-radius:2px; }
 
 /* responsive */
 @media (max-width:640px){
   #media-root .media-grid { grid-template-columns: repeat(1, minmax(0,1fr)); }
   #media-root .img-wrap { height:260px; }
 }
-
 
 /* ===== 强制放大媒体卡片文字（放在 mediaforSearch.css 底部） ===== */
 /* 高优先级选择器 + !important 确保覆盖主题样式 */
@@ -83,14 +125,20 @@
   color: #555 !important;
 }
 
-/* 标签 */
+#media-root .media-card .info .author {
+  color: #414141 !important; 
+  font-size: 1.05rem !important; 
+}
+
+
+/* 标签 强制样式（覆盖主题） */
 #media-root .media-card .tag,
 #media-root .media-card .tag-badge,
 #media-root .media-card .tag-list span,
 #media-root .media-card .tags span,
 #media-root .tag {
-  background: #2b2b2b !important;     /* 深灰接近你的站点暗色风格 */
-  color: #f1f1f1 !important;           /* 浅色文字对比 */
+  background: #2b2b2b !important;
+  color: #f1f1f1 !important;
   padding: 3px 8px !important;
   border-radius: 6px !important;
   font-size: 0.99rem !important;
@@ -98,7 +146,7 @@
   display: inline-block !important;
 }
 
-/* 标签 hover 效果（可选） */
+/* 标签 hover 效果 */
 #media-root .media-card .tag:hover {
   background: #444 !important;
   color: #fff !important;
@@ -106,21 +154,60 @@
 
 /* 确保整个卡片基准大小 */
 #media-root .media-card {
-  font-size: 1rem !important;           /* 16px 基准 */
+  font-size: 1rem !important;
 }
 
-/* 如果你用了 row-title-inline 样式 */
-#media-root .row-title-inline,
-#media-root .media-card .row-title-inline {
-  font-size: 1.15rem !important;
-  font-weight: 700 !important;
-}
-
-/* 少数主题可能设置 transform-scale 导致看起来小，重置它 */
+/* 修复可能的 transform 样式 */
 #media-root .media-card,
 #media-root .media-card * {
   transform: none !important;
   zoom: normal !important;
 }
 
+/* 便于调试：当处于“无图”视图时，给媒体容器加 class（JS 会设置） */
+#media-root.view-mode-text .img-wrap { display:none !important; }
 
+/* --- meta 行左右布局（type 左对齐，发布时间 右对齐） --- */
+#media-root .media-card .meta {
+  display:block; /* 保持兼容，内部使用 flex */
+  padding-top:6px;
+  color:#666;
+  font-size:0.92rem;
+}
+
+/* 新的 meta-flex：左右两栏 */
+#media-root .media-card .meta.meta-flex {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:8px;
+  margin-top:auto;
+}
+
+/* 左侧 type 文本（小号） */
+#media-root .media-card .meta .meta-left {
+  text-align:left;
+  font-size:0.95rem;
+  color:#333;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  max-width:60%;
+}
+
+/* 右侧发布时间 */
+#media-root .media-card .meta .meta-right {
+  text-align:right;
+  color:#666;
+  font-size:0.92rem;
+  white-space:nowrap;
+}
+
+/* 小屏幕时调整：左右堆叠但右仍右对齐 */
+@media (max-width:640px){
+  #media-root .media-card .meta.meta-flex {
+    flex-direction:row;
+    justify-content:space-between;
+  }
+  #media-root .media-card .meta .meta-left { max-width:55%; }
+}
