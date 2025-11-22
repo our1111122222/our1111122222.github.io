@@ -13,7 +13,7 @@
         <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
         
         <guid>https://our1111122222.github.io/p/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</guid>
-        <description>&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbB7qCOATHD4LfOcutQ3fCSlvxHfN2FkF7Xen3C42w-NcNyfRFMnuY1Lvh-qAt6QFkljOPYAYNnXAc6tD98DhuZogQay1dGu6V0fzSI3xixH6sFjq8Ezb-HVAZ0i08Qb6P6LciJLzg7iim/s800/animal_chara_computer_azarashi.png" alt="Featured image of post 建站笔记" /&gt;&lt;h2 id=&#34;基本管线-&#34;&gt;基本管线 ：
+        <description>&lt;img src="https://our1111122222.github.io/images/animal_chara_computer_azarashi.png" alt="Featured image of post 建站笔记" /&gt;&lt;h2 id=&#34;基本管线-&#34;&gt;基本管线 ：
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Obsidian（笔记软件）+Hugo（开源网站生成器）+Stack （主题）+Git（托管）+Github Page（展示）&lt;/strong&gt;&lt;br&gt;
 将 Hugo 的文件放在 Obsidian 的文件目录下，然后通过 Obsidian Git 插件 push 到存放Hugo 文件的 Github 仓库，再通过 Github Action 触发动作生成静态页面，commit 到静态网页的 Github 仓库，最后通过 Github Page 进行展示。&lt;br&gt;
 Hugo+GitHub Page 教程：&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

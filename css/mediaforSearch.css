@@ -46,7 +46,7 @@
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
   box-sizing:border-box;
-  font-size:1.8rem;        /* 调小，别再太大 */
+  font-size:1.6rem;        /* 调小，别再太大 */
   line-height:1.4;
   overflow:hidden;
 }
@@ -211,3 +211,41 @@
   }
   #media-root .media-card .meta .meta-left { max-width:55%; }
 }
+
+/* 确保 img-wrap 为相对定位（如果已有请忽略） */
+.media-grid .media-card .img-wrap {
+  position: relative;
+}
+
+/* ===== 修复 series badge：深色半透明背景 + 白字，强制优先级 ===== */
+.img-wrap .series-badge {
+  position: absolute !important;
+  top: 8px !important;
+  right: 8px !important;
+
+  /* 深色半透明底，确保对比 */
+  background: rgba(0, 119, 255, 0.808) !important;
+  color: #ffffff !important;
+
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;        /* 稍小一点，更不抢眼 */
+  padding: 4px 8px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.35) !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+  max-width: calc(100% - 48px) !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  z-index: 60 !important;               /* 确保覆盖其它层 */
+  border: 1px solid rgba(255,255,255,0.06) !important;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.45) !important;
+}
+
+/* hover 仅作细微提示（不改变颜色方案）*/
+.img-wrap .series-badge:hover {
+  text-decoration: none !important;
+  transform: translateY(-1px) !important;
+  transition: transform .12s ease !important;
+}
+
