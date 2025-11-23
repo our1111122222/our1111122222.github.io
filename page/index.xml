@@ -16,6 +16,65 @@
         <description></description>
         </item>
         <item>
+        <title>动态</title>
+        <link>https://our1111122222.github.io/microblog/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/microblog/</guid>
+        <description>
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://our1111122222.github.io/css/micro-library.css&#34;&gt;
+&lt;div class=&#34;micro-library-root&#34;&gt;
+  &lt;div class=&#34;micro-library-wrap&#34;&gt;
+    &lt;div class=&#34;micro-toolbar&#34;&gt;
+      &lt;div class=&#34;micro-title&#34;&gt;短博动态&lt;/div&gt;
+      &lt;div class=&#34;micro-note&#34;&gt;来自 content/note&lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    
+    
+    
+
+    
+    
+
+    
+    &lt;div id=&#34;micro-raw&#34; data-avatar=&#34;/images/avatar.png&#34; data-limit=&#34;30&#34; data-section=&#34;note&#34; style=&#34;display:none&#34;&gt;
+      
+      
+        &lt;div class=&#34;micro-day&#34; data-day=&#34;2025-11-23&#34;&gt;
+          &lt;ul&gt;
+&lt;li&gt;13:53
+这是第一个动态！
+&lt;img src=&#34;https://our1111122222.github.io/images/post/figure_rpg_characters.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;|100|278x213&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;14:44 网站搭建差不多可以告一段落了，接下来就是慢慢更新文章了&lt;/li&gt;
+&lt;/ul&gt;
+
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+
+    &lt;div id=&#34;micro-feed&#34; class=&#34;micro-feed&#34; role=&#34;feed&#34; aria-live=&#34;polite&#34;&gt;&lt;/div&gt;
+
+    &lt;div class=&#34;micro-footer&#34;&gt;显示最近 &lt;span id=&#34;micro-count&#34;&gt;0&lt;/span&gt; 条短博&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src=&#34;https://our1111122222.github.io/js/micro-library.js&#34; defer&gt;&lt;/script&gt;
+
+</description>
+        </item>
+        <item>
         <title>告示板</title>
         <link>https://our1111122222.github.io/%E5%91%8A%E7%A4%BA%E6%9D%BF/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,10 +82,10 @@
         <guid>https://our1111122222.github.io/%E5%91%8A%E7%A4%BA%E6%9D%BF/</guid>
         <description>&lt;p&gt;这个网站是我个人存放各种文章和随笔的网站。
 主要更新 TRPG 速递、书影音测评、技术文章和杂谈。
-下面是个人翻译或参与翻译的 TRPG 规则的汇总，因为太冷门所以大部分都没有群。
-如果有兴趣和我交流的话，可以加我个人的小群：775824468&lt;/p&gt;
+如果有兴趣和我交流的话，可以加我 QQ：954738831，或者加个人的小群：775824468&lt;/p&gt;
 &lt;h2 id=&#34;翻译作品名录&#34;&gt;翻译作品名录
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;最近更新日期：2025-11-22&lt;/strong&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;下面是个人翻译或参与翻译的 TRPG 规则的汇总，因为太冷门所以大部分都没有群。
+&lt;strong&gt;最近更新日期：2025-11-22&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -115,7 +174,7 @@
 
 
 
-&lt;script id=&#34;media-data&#34; type=&#34;application/json&#34;&gt;&#34;[{\&#34;author\&#34;:\&#34;グループSNE(田中公侍)\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34; 斗技场是舞台，阿尔弗雷姆大陆的知名角色们大闹特闹！？本次主题是“斗技场”！在遗迹都市索拉格的“无限斗技场”中，以讨伐无限生成的魔物为中心，过去的回放或小说中登场的NPC和Boss敌人再次登场。还收录了可以和它们在斗技场战斗的事件场景。此外，通过战斗机关，可以享受利用多彩地形和机关的战斗乐趣！\&#34;,\&#34;image\&#34;:\&#34;https://m.media-amazon.com/images/I/81A4TcJ44-L._SY425_.jpg\&#34;,\&#34;rawType\&#34;:null,\&#34;rawTypes\&#34;:[\&#34;扩展书\&#34;],\&#34;relPermalink\&#34;:\&#34;/p/sw/\&#34;,\&#34;score\&#34;:\&#34;7\&#34;,\&#34;series\&#34;:\&#34;剑世界2.5\&#34;,\&#34;shortReview\&#34;:\&#34;这是一个简评\&#34;,\&#34;tags\&#34;:[\&#34;奇幻\&#34;,\&#34;战斗\&#34;],\&#34;title\&#34;:\&#34;ソード・ワールド2.5サプリメント インフィニットコロッセオ ‐夢幻の魔物たち‐\&#34;,\&#34;types\&#34;:[\&#34;扩展书\&#34;]},{\&#34;author\&#34;:\&#34;\&#34;,\&#34;categories\&#34;:[\&#34;技术\&#34;],\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34;收录了建立这个网站用到的东西\&#34;,\&#34;image\&#34;:\&#34;https://our1111122222.github.io/images/animal_chara_computer_azarashi.png\&#34;,\&#34;rawType\&#34;:\&#34;\&#34;,\&#34;rawTypes\&#34;:null,\&#34;relPermalink\&#34;:\&#34;/p/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/\&#34;,\&#34;score\&#34;:0,\&#34;series\&#34;:null,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;建站\&#34;],\&#34;title\&#34;:\&#34;建站笔记\&#34;,\&#34;types\&#34;:\&#34;\&#34;},{\&#34;author\&#34;:\&#34;F.E.A.R.(鈴吹太郎)\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34;■『Precious Days』的世界。这里是魔王逝去后的剑与魔法的幻想世界。人们歌颂着和平，同时在倾力培养魔术师以应对迟早会复活的魔王。因此魔术师们带着弟子——魔术师学徒游历各地，通过不断钻研学习来引导他们成长。直到某天，弟子通过毕业考试，成为独当一面的魔术师，正式独立的那一天为止\&#34;,\&#34;image\&#34;:\&#34;https://fujimi-trpg-online.jp/archives/001/202511/a0f2212a7d0c039a693f0187bac35ddee7236819452c606a72c52a74982dbfe0.jpg\&#34;,\&#34;rawType\&#34;:\&#34;规则书\&#34;,\&#34;rawTypes\&#34;:null,\&#34;relPermalink\&#34;:\&#34;/p/%E9%AD%94%E8%A1%93%E5%B8%AB%E8%82%B2%E6%88%90%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95rpg-%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA-precious-days/\&#34;,\&#34;score\&#34;:\&#34;7.5\&#34;,\&#34;series\&#34;:\&#34;\&#34;,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;奇幻\&#34;,\&#34;D6\&#34;,\&#34;养成\&#34;,\&#34;轻松\&#34;,\&#34;双人\&#34;],\&#34;title\&#34;:\&#34;魔術師育成スローライフRPG プレシャスデイズ (Precious Days)\&#34;,\&#34;types\&#34;:\&#34;规则书\&#34;},{\&#34;author\&#34;:\&#34;冒険企画局（河嶋陶一朗）\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-09-20\&#34;,\&#34;description\&#34;:\&#34; 《夜之足迹 夜晚的归途》是《夜之足迹》TRPG的追加数据集。在奇妙的夜巡中，引入了狗、饲主、野猫、工作猫、化猫等新伙伴，扩展了夜晚的冒险。玩家将化身为猫，在夜幕的掩护下，守护领地并平安回家，体验一场任性猫咪们的黑暗童话式冒险。\&#34;,\&#34;image\&#34;:\&#34;https://cdn.kdkw.jp/cover_1000/322505/322505001282.webp\&#34;,\&#34;rawType\&#34;:null,\&#34;rawTypes\&#34;:[\&#34;扩展书\&#34;],\&#34;relPermalink\&#34;:\&#34;/p/%E5%A4%9C%E3%81%AE%E3%81%82%E3%81%97%E3%81%82%E3%81%A8-%E5%A4%9C%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93/\&#34;,\&#34;score\&#34;:\&#34;8.5\&#34;,\&#34;series\&#34;:\&#34;夜之足迹\&#34;,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;动物\&#34;,\&#34;城市冒险\&#34;],\&#34;title\&#34;:\&#34;夜のあしあと 夜の帰り道\&#34;,\&#34;types\&#34;:[\&#34;扩展书\&#34;]}]&#34;&lt;/script&gt;
+&lt;script id=&#34;media-data&#34; type=&#34;application/json&#34;&gt;&#34;[{\&#34;author\&#34;:\&#34;グループSNE(田中公侍)\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34; 斗技场是舞台，阿尔弗雷姆大陆的知名角色们大闹特闹！？本次主题是“斗技场”！在遗迹都市索拉格的“无限斗技场”中，以讨伐无限生成的魔物为中心，过去的回放或小说中登场的NPC和Boss敌人再次登场。还收录了可以和它们在斗技场战斗的事件场景。此外，通过战斗机关，可以享受利用多彩地形和机关的战斗乐趣！\&#34;,\&#34;image\&#34;:\&#34;https://m.media-amazon.com/images/I/81A4TcJ44-L._SY425_.jpg\&#34;,\&#34;rawType\&#34;:null,\&#34;rawTypes\&#34;:[\&#34;扩展书\&#34;],\&#34;relPermalink\&#34;:\&#34;/p/sw/\&#34;,\&#34;score\&#34;:\&#34;7\&#34;,\&#34;series\&#34;:\&#34;剑世界2.5\&#34;,\&#34;shortReview\&#34;:\&#34;这是一个简评\&#34;,\&#34;tags\&#34;:[\&#34;奇幻\&#34;,\&#34;战斗\&#34;],\&#34;title\&#34;:\&#34;ソード・ワールド2.5サプリメント インフィニットコロッセオ ‐夢幻の魔物たち‐\&#34;,\&#34;types\&#34;:[\&#34;扩展书\&#34;]},{\&#34;author\&#34;:\&#34;\&#34;,\&#34;categories\&#34;:[\&#34;技术\&#34;],\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34;收录了建立这个网站用到的东西\&#34;,\&#34;image\&#34;:\&#34;https://our1111122222.github.io/images/animal_chara_computer_azarashi.png\&#34;,\&#34;rawType\&#34;:\&#34;\&#34;,\&#34;rawTypes\&#34;:null,\&#34;relPermalink\&#34;:\&#34;/p/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/\&#34;,\&#34;score\&#34;:0,\&#34;series\&#34;:null,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;建站\&#34;],\&#34;title\&#34;:\&#34;建站笔记\&#34;,\&#34;types\&#34;:\&#34;\&#34;},{\&#34;author\&#34;:\&#34;F.E.A.R.(鈴吹太郎)\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-11-20\&#34;,\&#34;description\&#34;:\&#34;■『Precious Days』的世界。这里是魔王逝去后的剑与魔法的幻想世界。人们歌颂着和平，同时在倾力培养魔术师以应对迟早会复活的魔王。因此魔术师们带着弟子——魔术师学徒游历各地，通过不断钻研学习来引导他们成长。直到某天，弟子通过毕业考试，成为独当一面的魔术师，正式独立的那一天为止\&#34;,\&#34;image\&#34;:\&#34;https://fujimi-trpg-online.jp/archives/001/202511/a0f2212a7d0c039a693f0187bac35ddee7236819452c606a72c52a74982dbfe0.jpg\&#34;,\&#34;rawType\&#34;:\&#34;规则书\&#34;,\&#34;rawTypes\&#34;:null,\&#34;relPermalink\&#34;:\&#34;/p/%E9%AD%94%E8%A1%93%E5%B8%AB%E8%82%B2%E6%88%90%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95rpg-%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA-precious-days/\&#34;,\&#34;score\&#34;:\&#34;7.5\&#34;,\&#34;series\&#34;:\&#34;\&#34;,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;奇幻\&#34;,\&#34;D6\&#34;,\&#34;养成\&#34;,\&#34;轻松\&#34;,\&#34;双人\&#34;],\&#34;title\&#34;:\&#34;魔術師育成スローライフRPG プレシャスデイズ (Precious Days)\&#34;,\&#34;types\&#34;:\&#34;规则书\&#34;},{\&#34;author\&#34;:\&#34;冒険企画局（河嶋陶一朗）\&#34;,\&#34;categories\&#34;:\&#34;TRPG\&#34;,\&#34;datePublished\&#34;:\&#34;2025-09-20\&#34;,\&#34;description\&#34;:\&#34; 《夜之足迹 夜晚的归途》是《夜之足迹》TRPG的追加数据集。在奇妙的夜巡中，引入了狗、饲主、野猫、工作猫、化猫等新伙伴，扩展了夜晚的冒险。玩家将化身为猫，在夜幕的掩护下，守护领地并平安回家，体验一场任性猫咪们的黑暗童话式冒险。\&#34;,\&#34;image\&#34;:\&#34;https://cdn.kdkw.jp/cover_1000/322505/322505001282.webp\&#34;,\&#34;rawType\&#34;:null,\&#34;rawTypes\&#34;:[\&#34;扩展书\&#34;],\&#34;relPermalink\&#34;:\&#34;/p/%E5%A4%9C%E3%81%AE%E3%81%82%E3%81%97%E3%81%82%E3%81%A8-%E5%A4%9C%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93/\&#34;,\&#34;score\&#34;:\&#34;8.5\&#34;,\&#34;series\&#34;:\&#34;夜之足迹\&#34;,\&#34;shortReview\&#34;:\&#34;\&#34;,\&#34;tags\&#34;:[\&#34;动物\&#34;,\&#34;城市冒险\&#34;,\&#34;D6\&#34;],\&#34;title\&#34;:\&#34;夜のあしあと 夜の帰り道\&#34;,\&#34;types\&#34;:[\&#34;扩展书\&#34;]}]&#34;&lt;/script&gt;
 
 
 

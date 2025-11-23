@@ -1,0 +1,7 @@
+.markdown img {
+  max-width: 30%;  /* 或者 300px 固定宽度 */
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 0.5em auto; /* 居中显示 */
+}

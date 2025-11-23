@@ -1,0 +1,75 @@
+/* static/css/micro-library.css — 更新版：更柔和的配色 / 更大正文与时间 */
+:root{
+  --bg: #f4f7fb;
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #1d9bf0;
+  --border: #e6eef9;
+  --shadow: 0 8px 24px rgba(16,24,40,0.06);
+}
+
+.micro-library-wrap { max-width: 820px; margin: 10px auto; padding: 8px; box-sizing: border-box; background: transparent; }
+.micro-toolbar { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; gap:8px; }
+.micro-title {
+  font-size:1.35rem;  /* （原 1.05rem）再大一些 */
+  font-weight:800;
+  color:#f0f4ff; /* 银白色偏冷调 */
+  text-shadow: 0 0 6px rgba(255,255,255,0.4); /* 让银白色更清晰 */
+}
+.micro-note { color:var(--muted); font-size:.92rem; }
+
+.micro-feed { display:flex; flex-direction:column; gap:14px; }
+
+/* card */
+.micro-card {
+  display:flex;
+  gap:12px;
+  background: linear-gradient(180deg,#ffffff,#fbfdff);
+  border-radius:12px;
+  padding:14px;
+  border:1px solid var(--border);
+  box-shadow: var(--shadow);
+  align-items:flex-start;
+  word-break:break-word;
+}
+.micro-avatar {
+  min-width:52px; min-height:52px; width:52px; height:52px;
+  border-radius:12px;
+  background:#eef6fd;
+  display:flex; align-items:center; justify-content:center; font-size:22px;
+  flex-shrink:0;
+  overflow:hidden;
+}
+.micro-avatar img { width:100%; height:100%; object-fit:cover; display:block; }
+
+/* body */
+.micro-body { flex:1; display:flex; flex-direction:column; gap:8px; }
+.micro-meta { display:flex; justify-content:space-between; align-items:center; gap:10px; }
+.micro-author { font-weight:700; color:#122032; font-size:0.96rem; display:none; /* 隐藏作者标签 */ }
+
+/* DATE/TIME —— 突出显示 */
+.micro-time {
+  color:#0b1220;
+  font-size:1.45rem;   /* 放大 */
+  font-weight:700;
+}
+
+/* content —— 更大更强调 */
+.micro-content { font-size:1.45rem; line-height:1.6; color:#0b1220; white-space:pre-wrap; }
+.micro-content img { max-width:100%; border-radius:10px; margin-top:10px; display:block; border:1px solid var(--border); }
+
+/* actions row (仅保留可能的操作按钮) */
+.micro-actions { display:flex; gap:8px; margin-top:6px; }
+.micro-btn { background:transparent; border:1px solid rgba(11,27,44,0.06); padding:6px 10px; border-radius:8px; cursor:pointer; color:#0b1220; font-size:0.95rem; }
+.micro-footer { margin-top:10px; color:var(--muted); font-size:0.9rem; text-align:center; }
+
+/* hover */
+.micro-card:hover { transform: translateY(-4px); transition: all .16s ease; box-shadow: 0 14px 30px rgba(16,24,40,0.08); }
+
+/* responsive */
+@media (max-width:640px){
+  .micro-avatar { width:44px; height:44px; font-size:18px; border-radius:10px; }
+  .micro-card { padding:12px; }
+  .micro-time { font-size:1rem; }
+  .micro-content { font-size:1rem; }
+}
