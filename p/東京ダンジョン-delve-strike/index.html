@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=" `东京迷宫 Delve Strike` 是一部设定在略微未来的现代奇幻TRPG。在这个被“大变容”所改变的世界中，如同游戏般的地下城在各地出现，释放出令现代武器束手无策的怪物。然而，人类中也诞生了拥有特殊能力的“冒险者”，他们以狩猎怪物、探索迷宫为生。玩家将运用结合现代科技与魔法的混合武器及道具，挑战包括东京山手线沿线在内的日本各地地下城，在变异的世界中寻找宝藏、与异种生物搏斗。">
+<title>東京ダンジョン　Delve Strike</title>
+
+<link rel='canonical' href='https://our1111122222.github.io/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/'>
+
+<link rel="stylesheet" href="/scss/style.min.267ae6eb6b68ae1d9e97b8431d458b67ca3b3bbba97e01d61d34846386b69a23.css"><meta property='og:title' content="東京ダンジョン\u3000Delve Strike">
+<meta property='og:description' content=" `东京迷宫 Delve Strike` 是一部设定在略微未来的现代奇幻TRPG。在这个被“大变容”所改变的世界中，如同游戏般的地下城在各地出现，释放出令现代武器束手无策的怪物。然而，人类中也诞生了拥有特殊能力的“冒险者”，他们以狩猎怪物、探索迷宫为生。玩家将运用结合现代科技与魔法的混合武器及道具，挑战包括东京山手线沿线在内的日本各地地下城，在变异的世界中寻找宝藏、与异种生物搏斗。">
+<meta property='og:url' content='https://our1111122222.github.io/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/'>
+<meta property='og:site_name' content='生年的小站'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='现代' /><meta property='article:tag' content='奇幻' /><meta property='article:tag' content='地下城' /><meta property='article:tag' content='怪物狩猎' /><meta property='article:tag' content='科技魔法' /><meta property='article:published_time' content='2025-12-06T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-12-06T00:00:00&#43;00:00'/><meta property='og:image' content='https://cdn.kdkw.jp/cover_1000/322411/322411000886.webp' />
+<meta name="twitter:title" content="東京ダンジョン\u3000Delve Strike">
+<meta name="twitter:description" content=" `东京迷宫 Delve Strike` 是一部设定在略微未来的现代奇幻TRPG。在这个被“大变容”所改变的世界中，如同游戏般的地下城在各地出现，释放出令现代武器束手无策的怪物。然而，人类中也诞生了拥有特殊能力的“冒险者”，他们以狩猎怪物、探索迷宫为生。玩家将运用结合现代科技与魔法的混合武器及道具，挑战包括东京山手线沿线在内的日本各地地下城，在变异的世界中寻找宝藏、与异种生物搏斗。"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://cdn.kdkw.jp/cover_1000/322411/322411000886.webp' />
+    <link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "dark");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_fa8c6fce2aae5220.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">✡️</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">生年的小站</a></h1>
+            <h2 class="site-description">语言的界限即是思想的界限。</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://space.bilibili.com/5255888'
+                        target="_blank"
+                        title="bilibili"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-brand-bilibili"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a4 4 0 0 1 4 -4h10a4 4 0 0 1 4 4v6a4 4 0 0 1 -4 4h-10a4 4 0 0 1 -4 -4v-6z" /><path d="M8 3l2 3" /><path d="M16 3l-2 3" /><path d="M9 13v-2" /><path d="M15 11v2" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%91%8A%E7%A4%BA%E6%9D%BF/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-pinned"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 4v6l-2 4v2h10v-2l-2 -4v-6" /><path d="M12 16l0 5" /><path d="M8 4l8 0" /></svg>
+                
+                <span>告示板</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%AA%92%E4%BD%93%E5%BA%93/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-database-edit"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 6c0 1.657 3.582 3 8 3s8 -1.343 8 -3s-3.582 -3 -8 -3s-8 1.343 -8 3" /><path d="M4 6v6c0 1.657 3.582 3 8 3c.478 0 .947 -.016 1.402 -.046" /><path d="M20 12v-6" /><path d="M4 12v6c0 1.526 3.04 2.786 6.972 2.975" /><path d="M18.42 15.61a2.1 2.1 0 0 1 2.97 2.97l-3.39 3.42h-3v-3l3.42 -3.39z" /></svg>
+                
+                <span>媒体库</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/microblog/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-brand-twitter"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c0 -.249 1.51 -2.772 1.818 -4.013z" /></svg>
+                
+                <span>动态</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友情链接</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>归档</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://our1111122222.github.io/en/" >English</option>
+                                
+                                    <option value="https://our1111122222.github.io/" selected>中文</option>
+                                
+                                    <option value="https://our1111122222.github.io/ar/" >عربي</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#世界设定">世界设定</a></li>
+    <li><a href="#角色创建">角色创建</a></li>
+    <li><a href="#基本规则">基本规则</a></li>
+    <li><a href="#流程">流程</a></li>
+    <li><a href="#战斗规则">战斗规则</a></li>
+    <li><a href="#探索规则">探索规则</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/">
+                
+                    <img src="https://cdn.kdkw.jp/cover_1000/322411/322411000886.webp" loading="lazy" alt="Featured image of post 東京ダンジョン　Delve Strike" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/trpg/" style="background-color:  #2a9d8f ; color:  #fff ;">
+                TRPG
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/">東京ダンジョン　Delve Strike</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+             `东京迷宫 Delve Strike` 是一部设定在略微未来的现代奇幻TRPG。在这个被“大变容”所改变的世界中，如同游戏般的地下城在各地出现，释放出令现代武器束手无策的怪物。然而，人类中也诞生了拥有特殊能力的“冒险者”，他们以狩猎怪物、探索迷宫为生。玩家将运用结合现代科技与魔法的混合武器及道具，挑战包括东京山手线沿线在内的日本各地地下城，在变异的世界中寻找宝藏、与异种生物搏斗。
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published" datetime='2025-12-06T00:00:00Z'>2025-12-06</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p><img src="https://cdn.kdkw.jp/cover_1000/322411/322411000886.webp"
+	
+	
+	
+	loading="lazy"
+	
+		alt="|200"
+	
+	
+></p>
+<blockquote>
+<p><strong>原文名</strong>：東京ダンジョン　Delve Strike<br>
+<strong>参考译名</strong>： 东京迷宫 Delve Strike<br>
+<strong>网址</strong>： <a class="link" href="https://www.kadokawa.co.jp/product/322411000886/"  target="_blank" rel="noopener"
+    >https://www.kadokawa.co.jp/product/322411000886/</a><br>
+<strong>作者</strong>：F.E.A.R.(大畑顕) <br>
+<strong>出版日期</strong>：2025-03-19<br>
+<strong>价格</strong>：纸质版：4,730日元（B5判，248页） <br>
+<strong>官方简介（机翻）</strong>： 故事发生在一个略微未来的，已经发生巨变的世界。如同游戏一般的地下城在世界各地出现，人们面临着现代武器难以应对的怪物威胁。然而，在这“大变样”的过程中，人类中出现了拥有特殊能力，能够与怪物抗衡的人。他们最终被称为“冒险者”，以清除怪物、探索地下城为生。这是一个在已改变的世界中狩猎怪物、在迷宫中寻找宝藏的现代奇幻TRPG（桌上角色扮演游戏）。运用现代科技与魔法混合的武器和道具，挑战以东京山手线沿线为首的日本各地地下城吧！。</p>
+</blockquote>
+<h1 id="我的笔记">我的笔记
+</h1><h2 id="世界设定">世界设定
+</h2><p><strong>异界侵蚀</strong><br>
+21世纪中叶，世界各地突然开启了通往异世界的门扉——它们被称为“传送门（Gate）”，怪物们从中蜂拥而出，肆虐横行。<br>
+这一后来被称为“大变容（GREAT SHIFT）”的事件，彻底改变了世界的面貌。而那一天之后的时代，则被称为“大变容后（AFTER SHIFT）”。<br>
+面对未知的怪物，即便是现代兵器也陷入了苦战。然而，人类中出现了一些拥有足以击退怪物攻击的武力或魔法力量的人们。这种对抗怪物的力量被称为“天赋（Talent）”。<br>
+拥有“天赋”的人被政府或企业雇佣，以猎杀怪物为生。他们被称为“冒险者”。<br>
+<strong>东京迷宫</strong><br>
+经由后世详查记录，人们认为“大变容”最早发生在曾经的日本首都——东京。在这曾是世界屈指可数的大都市的土地上，出现了数个巨大的迷宫，它们既是人类的威胁，同时也一直是人类不可或缺的存在。<br>
+而不断挑战这些迷宫的，正是冒险者。<br>
+有人为了这一攫千金，有人为了抵达真理，有人为了替失去的家人复仇……还有人是为了让世界恢复原状。冒险者们日以继夜地挑战着迷宫。<br>
+<strong>变貌的世界</strong><br>
+世界乍看之下似乎恢复了“大变容”之前的秩序。但实际上，这种秩序若不依赖迷宫，已然无法成立。<br>
+颠覆已知科学的能量——“魔力（Mana）”。魔力实体化后形成的“魔晶石（Manatite）”。以及蕴含魔晶石的器具。若是失去了这些源自迷宫的能量与素材，社会将无法运作。</p>
+<h2 id="角色创建">角色创建
+</h2><p><img src="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765026204947.png"
+	width="1364"
+	height="945"
+	srcset="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765026204947_hu_6a1575daa61e7ed1.png 480w, /p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765026204947_hu_815b10b325838284.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="144"
+		data-flex-basis="346px"
+	
+> <br>
+<strong>经历</strong>：出身、境遇、目的三部分组成。<br>
+<strong>职阶（Class）</strong>：表示角色与战斗相关的能力或职责（战士、术士&hellip;）。每个职阶都被设定了 <code>战斗职责</code> 和 <code>探索职责</code>，包含了角色能力值、副能力值的初始数据和初始道具。</p>
+<ul>
+<li><code>战斗职责</code>：角色的战斗方式，包括物理、魔法和技术三种</li>
+<li><code>探索职责</code>：角色在探索中的作用，包括探知、解除、突破三种。</li>
+</ul>
+<p><strong>种族</strong>：一共有人类（Human）、精灵（Elf）、矮人（Gnome）、夜行者（Nightwalker）、兽人（Therian）五种。<br>
+<strong>能力值</strong>：如图所示共 6 种，还是经典的 <code>种族的能力基本值/3</code> 来计算。<br>
+<strong>天赋</strong>：角色拥有的特殊能力或特性，一般意义上的技能跟魔法都被包括在里面。创建时会获得 2 个职阶天赋与 1 个种族天赋。<br>
+<strong>物品</strong>：物品分为装备品和携带品。装备品又分为武器和防具。每个角色有如图 6 处可装备的部位。存在重量限制。物品可以进行强化，强化后和稀有的物品价格都会更贵</p>
+<ul>
+<li><code>强化值</code>：物品可以通过消耗钱（GP）增加强化值，将强化值加到物品的数据中（攻击力、防值&hellip;）。强化后的物品不能购买，但可以破坏掉来增加魔力药水 HP和魔力药水 MP 的使用次数（战斗中不行）</li>
+<li><code>稀有度</code>：有些物品会有稀有度（R、SR、SSR），拥有稀有度的物品会设定追加效果，稀有度越高追加效果越多（有追加效果表可以骰）。效果内容包括增加各种属性值、赋予属性攻击、debuff等</li>
+</ul>
+<p><strong>副能力值</strong>：HP、MP、还有战斗相关的 <code>战斗值</code>（如图所示，其中命中和咏唱分别用于物理攻击和魔法攻击的命中判定。）、探索相关的 <code>探索值</code>（其中突破值用于跳跃、攀登等突破障碍的判定）<br>
+<strong>物理攻击栏</strong>：表中专门有统计左右手武器的物理攻击值的栏目，主要是为了记录伤害骰数量<br>
+<strong>干劲（Guts）</strong>：表示角色的干劲。可以用来增加和重投骰子、增加强化值。初始有 3 个的使用上限</p>
+<h2 id="基本规则">基本规则
+</h2><p><strong>基本判定</strong>：<code>使用的能力值/战斗值+（2+修正）D6&gt;=难易度</code>，2 个 6 以上大成功，全 1 大失败<br>
+<strong>队伍与队伍支援（PT）</strong>：冒险者们组成小队，然后可以获得各种支援效果，跟 ARA2E 那个差不多。</p>
+<h2 id="流程">流程
+</h2><p>FEAR 经典场景制流程。<br>
+<strong>Preplay</strong>：准备<br>
+<strong>Mainplay</strong>：四个阶段，每个阶段再用复数个场景推进，确定要登场的角色可以进行演出。</p>
+<ul>
+<li><code>开始阶段</code>：导入、介绍任务</li>
+<li><code>中盘阶段</code>：包含寻找迷宫所在地和迷宫外调查的“调查场景”，和在迷宫中探索的&quot;迷宫场景&quot;。迷宫被划分为&quot;区域&quot;，每到一个区域就是一个场景。</li>
+<li><code>高潮阶段</code>：打 BOSS。</li>
+<li><code>结束阶段</code>：后日谈，谢谢大家一起玩。<br>
+<strong>Afterplay</strong>：成长。得到的经验点可以升级角色、升级角色后可以取得新的天赋、干劲会提升、副能力值会提升</li>
+</ul>
+<h2 id="战斗规则">战斗规则
+</h2><p>战斗以轮为单位管理，一轮包含配置、先机、主要、结算四个处理。</p>
+<ul>
+<li>配置：场景中参加战斗的角色登场、宣言此时可以使用的天赋。</li>
+<li>先机：决定行动顺序。</li>
+<li>主要：开始进行行动。行动分为移动行动、次要行动、主要行动、自由行动、反应行动5 种。除了反应行动都是一个主要只能进行一次的行动。都很常见就不展开讲了。</li>
+<li>结算：结算各种效果等。</li>
+</ul>
+<p><strong>移动和距离</strong>：采用的是计算距离的自由地图。使用 <code>交战圈（engage）</code> 来表现战场中交战区域和范围，角色可以突入和脱离其他敌人的交战圈、如果存在封锁，脱离交战圈的角色将不能进行行动。<br>
+<img src="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765079929867.png"
+	width="512"
+	height="186"
+	srcset="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765079929867_hu_db2dd7890435816b.png 480w, /p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765079929867_hu_68196db69934c7ca.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="275"
+		data-flex-basis="660px"
+	
+>
+<img src="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765080008441.png"
+	width="502"
+	height="185"
+	srcset="/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765080008441_hu_64d2fbdb00541324.png 480w, /p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765080008441_hu_e715b240f7ac94a3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="271"
+		data-flex-basis="651px"
+	
+>
+<strong>攻击</strong>：攻击没什么好讲的。分为物理攻击和魔法攻击，先计算命中再计算伤害值<br>
+<strong>属性</strong>：魔法攻击可能包含地、水、火、风、光、暗 6 种属性。敌人也拥有属性和弱点属性，伤害计算过程中，同属性的话【魔防值】翻倍，弱点属性的话【魔防值】视为 0。</p>
+<h2 id="探索规则">探索规则
+</h2><p><strong>陷阱相关</strong>：想要发现区域中隐藏的陷阱，角色需要宣言进行 <code>区域探知</code> 或 <code>陷阱探知</code></p>
+<ul>
+<li><code>区域探知</code>：区域探知可以发现区域中的&lt;感应式&gt;&lt;触发型&gt;陷阱，使用【探知值】判定</li>
+<li><code>陷阱探知</code>：可以发现隐藏在门、箱子等物品或者敌人身上的陷阱。必须实际接触到它们才能宣言发现。使用【探知值】判定</li>
+<li><code>陷阱解除</code>：使用【解除值】判定</li>
+</ul>
+<p><strong>跳跃、攀登</strong>：使用【突破值】判定<br>
+<strong>敌人识别</strong>：使用【智力】判定<br>
+<strong>决定掉落物</strong>：击倒敌人后，骰 2d6 参照敌人设定的战利品表取得掉落物。<br>
+<strong>特殊状态</strong>：游泳、飞行、黑暗<br>
+<strong>休憩</strong>：分为大休憩跟小休憩，小休憩只回复魔力药水 HP 和魔力药水 MP 的使用次数（这不果粒橙么）。</p>
+<h1 id="个人评价">个人评价
+</h1><p>这是一款以<strong>现代都市地下城</strong>为主题的 TRPG，等于是同社传统奇幻 TRPG《アリアンロッドRPG 2E》的<strong>现代版</strong>。系统框架基本延续自 AR2E： <br>
+“命运点”改成了“干劲”，“公会支援”变成“队伍支援”，“技能”更名为“天赋”，而场景推进流程和战斗机制整体上变化不大。<br>
+本作的角色创建（车卡）更加精简：取消了副 Class 的设定，玩家只需选择 Class 和种族，之后<strong>天赋与初始道具就会自动确定</strong>，非常适合快速上手与即开即玩。不过目前<strong>尚未提供转职规则，数据量也不算丰富</strong>，还需要等待后续扩展书进行补足。<br>
+本作最大的魅力在于： <br>
+玩家可以在<strong>熟悉的现代都市地图中，一边使用魔法与超常能力，一边结合现代科技装备攻略地下城、讨伐怪物</strong>——现实与奇幻交织所带来的反差与爽感，是它最独特的乐趣所在。<br>
+话说回来，日本人到底是多喜欢&quot;大变容&quot;“大灾变”“大破局”这种名字啊。</p>
+<h1 id="相关信息">相关信息
+</h1><p><strong>相关网址</strong><br>
+官方产品页面： <a class="link" href="https://www.kadokawa.co.jp/product/322411000886/"  target="_blank" rel="noopener"
+    >https://www.kadokawa.co.jp/product/322411000886/</a><br>
+纸质版页面： <a class="link" href="https://www.kadokawa.co.jp/product/322411000868/"  target="_blank" rel="noopener"
+    >https://www.kadokawa.co.jp/product/322411000868/</a><br>
+电子书（BOOKWALKER）： <a class="link" href="https://bookwalker.jp/de9cfbe855-d8f0-40cb-a1cc-07ccfd869c37/"  target="_blank" rel="noopener"
+    >https://bookwalker.jp/de9cfbe855-d8f0-40cb-a1cc-07ccfd869c37/</a><br>
+电子书（Amazon）： <a class="link" href="https://www.amazon.co.jp/s?k=%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%80%80Delve&#43;Strike&#43;KADOKAWA&amp;i=digital-text&amp;tag=kadoofceeb-22"  target="_blank" rel="noopener"
+    >https://www.amazon.co.jp/s?k=%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%80%80Delve+Strike+KADOKAWA&i=digital-text&tag=kadoofceeb-22</a><br>
+纸质书（KADOKAWA Store）： <a class="link" href="https://store.kadokawa.co.jp/shop/g/g322411000868?ref=official"  target="_blank" rel="noopener"
+    >https://store.kadokawa.co.jp/shop/g/g322411000868?ref=official</a></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E7%8E%B0%E4%BB%A3/">现代</a>
+        
+            <a href="/tags/%E5%A5%87%E5%B9%BB/">奇幻</a>
+        
+            <a href="/tags/%E5%9C%B0%E4%B8%8B%E5%9F%8E/">地下城</a>
+        
+            <a href="/tags/%E6%80%AA%E7%89%A9%E7%8B%A9%E7%8C%8E/">怪物狩猎</a>
+        
+            <a href="/tags/%E7%A7%91%E6%8A%80%E9%AD%94%E6%B3%95/">科技魔法</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        const elementsToRender = [".main-article", ".widget--toc"];
+
+        elementsToRender.forEach(selector => {
+            const element = document.querySelector(selector);
+            if (element) {
+                renderMathInElement(element, {
+                    delimiters: [
+                        { left: "$$", right: "$$", display: true },
+                        { left: "$", right: "$", display: false },
+                        { left: "\\(", right: "\\)", display: false },
+                        { left: "\\[", right: "\\]", display: true }
+                    ],
+                    ignoredClasses: ["gist"]
+                });
+            }
+        });
+    });
+</script>
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/sw/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://m.media-amazon.com/images/I/81A4TcJ44-L._SY425_.jpg" loading="lazy" data-key="sw" data-hash="https://m.media-amazon.com/images/I/81A4TcJ44-L._SY425_.jpg"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">ソード・ワールド2.5サプリメント インフィニットコロッセオ ‐夢幻の魔物たち‐</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/%E9%AD%94%E8%A1%93%E5%B8%AB%E8%82%B2%E6%88%90%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95rpg-%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA-precious-days/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://fujimi-trpg-online.jp/archives/001/202511/a0f2212a7d0c039a693f0187bac35ddee7236819452c606a72c52a74982dbfe0.jpg" loading="lazy" data-key="" data-hash="https://fujimi-trpg-online.jp/archives/001/202511/a0f2212a7d0c039a693f0187bac35ddee7236819452c606a72c52a74982dbfe0.jpg"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">魔術師育成スローライフRPG プレシャスデイズ (Precious Days)</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/%E8%92%B8%E6%B0%97%E6%B4%BB%E5%8A%87rpg-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="/images/index.zh-cn-1764228685246.png" loading="lazy" data-key="" data-hash="/images/index.zh-cn-1764228685246.png"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">蒸気活劇RPG スチームパンカーズ</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/%E5%A4%9C%E3%81%AE%E3%81%82%E3%81%97%E3%81%82%E3%81%A8-%E5%A4%9C%E3%81%AE%E5%B8%B0%E3%82%8A%E9%81%93/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://cdn.kdkw.jp/cover_1000/322505/322505001282.webp" loading="lazy" data-key="" data-hash="https://cdn.kdkw.jp/cover_1000/322505/322505001282.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">夜のあしあと 夜の帰り道</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <script src="https://utteranc.es/client.js" 
+        repo="our1111122222/our1111122222.github.io"
+        issue-term="pathname"
+        
+        crossorigin="anonymous"
+        async
+        >
+</script>
+
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    let utterancesLoaded = false;
+
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+
+        
+        utterancesLoaded = true;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (!utterancesLoaded) return;
+        setUtterancesTheme(e.detail)
+    })
+</script>
+
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2025 Example Person
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.32.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.c922af694cc257bf1ecc41c0dd7b0430f9114ec280ccf67cd2c6ad55f5316c4e.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
