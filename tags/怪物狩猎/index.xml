@@ -111,7 +111,7 @@
 		data-flex-grow=&#34;275&#34;
 		data-flex-basis=&#34;660px&#34;
 	
-&gt;
+&gt;&lt;br&gt;
 &lt;img src=&#34;https://our1111122222.github.io/p/%E6%9D%B1%E4%BA%AC%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-delve-strike/index.zh-cn-1765080008441.png&#34;
 	width=&#34;502&#34;
 	height=&#34;185&#34;
@@ -123,7 +123,7 @@
 		data-flex-grow=&#34;271&#34;
 		data-flex-basis=&#34;651px&#34;
 	
-&gt;
+&gt;&lt;br&gt;
 &lt;strong&gt;攻击&lt;/strong&gt;：攻击没什么好讲的。分为物理攻击和魔法攻击，先计算命中再计算伤害值&lt;br&gt;
 &lt;strong&gt;属性&lt;/strong&gt;：魔法攻击可能包含地、水、火、风、光、暗 6 种属性。敌人也拥有属性和弱点属性，伤害计算过程中，同属性的话【魔防值】翻倍，弱点属性的话【魔防值】视为 0。&lt;/p&gt;
 &lt;h2 id=&#34;探索规则&#34;&gt;探索规则
