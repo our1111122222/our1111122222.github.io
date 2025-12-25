@@ -7,7 +7,181 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ひとつ屋根の僕ら</title>
+        <link>https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/</link>
+        <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/</guid>
+        <description>&lt;img src="https://cdn.kdkw.jp/cover_1000/322504/322504000055.webp" alt="Featured image of post ひとつ屋根の僕ら" /&gt;&lt;p&gt;&lt;img src=&#34;https://cdn.kdkw.jp/cover_1000/322504/322504000055.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;|200&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;原文名&lt;/strong&gt;：ひとつ屋根の僕ら&lt;br&gt;
+&lt;strong&gt;参考译名&lt;/strong&gt;： 同一个屋檐下的我们&lt;br&gt;
+&lt;strong&gt;网址&lt;/strong&gt;： &lt;a class=&#34;link&#34; href=&#34;https://www.kadokawa.co.jp/product/322504000055/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.kadokawa.co.jp/product/322504000055/&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;：池梟　リョーマ &lt;br&gt;
+&lt;strong&gt;出版日期&lt;/strong&gt;：2025-12-19&lt;br&gt;
+&lt;strong&gt;价格&lt;/strong&gt;：2,640円 (B6判，276页) &lt;br&gt;
+&lt;strong&gt;官方简介（机翻）&lt;/strong&gt;： 一栋看似平平无奇的房子。但有传闻说，会发生一些奇怪的事情？这是一个有这样传闻的奇妙之家。“我们”就住在这栋房子里。&lt;br&gt;
+在奇妙的房子里度过的共同生活。我们的关系会发生一些变化的，一个有点不可思议的家庭剧TRPG。&lt;br&gt;
+▼《同一个屋檐下的我们》的开始方式&lt;br&gt;
+决定好想玩的剧本后，创建主角“我们”以及作为舞台的房子吧。&lt;br&gt;
+▼回答“为什么”&lt;br&gt;
+“早上醒来，家里竟然挤满了大量的企鹅！怎么办？”&lt;br&gt;
+这是GM提出的决定故事走向的问题。决定你的行动，并回答“ハテナ”吧。&lt;br&gt;
+▼收集传闻&lt;br&gt;
+关于“我们”、房子和不可思议事件的传闻。&lt;br&gt;
+组合这些传闻，揭示事件的真相吧。&lt;br&gt;
+大家一起讨论，创造故事的结局！&lt;br&gt;
+《同一个屋檐下的我们》是一本TRPG规则书。要玩这个游戏，除了本书，还需要每位玩家一个20面骰子和笔。&lt;br&gt;
+玩家人数：GM 1人 + 玩家 1~4人（也可以无GM进行游戏）&lt;br&gt;
+游玩时间：1小时&lt;br&gt;
+收录示例剧本：14个。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;我的笔记&#34;&gt;我的笔记
+&lt;/h1&gt;&lt;h2 id=&#34;创建部分&#34;&gt;创建部分
+&lt;/h2&gt;&lt;p&gt;整个规则都是通过填调查问卷的形式来创建的，问卷中包含各种填空和勾选问题，全部答完就是完成了角色创建。&lt;/p&gt;
+&lt;h3 id=&#34;我们是一群怎么样的人&#34;&gt;&amp;ldquo;我们&amp;quot;是一群怎么样的人？
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;quot;我们&amp;quot;&lt;/code&gt;：指玩家全体，类似其他 trpg 中的 team、party，&amp;ldquo;我们是一群怎么样的人聚集在这个家里？&amp;ldquo;可以通过三种方式决定：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参考“我们”的范例：同居人、邻居、关系好的家庭、秘密研究所（什么鬼）、魔王的宫廷&amp;hellip;。每种范例都提供了成员设定参考。&lt;/li&gt;
+&lt;li&gt;参考“我们”的共同点表：家庭、朋友、邻居、同一个学校&amp;hellip;&lt;/li&gt;
+&lt;li&gt;骰家和 PC 的传闻表作为参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745.png&#34;
+	width=&#34;962&#34;
+	height=&#34;227&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745_hu_7f90737376b2225d.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745_hu_aec4a3e25fa8726e.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;423&#34;
+		data-flex-basis=&#34;1017px&#34;
+	
+&gt;&lt;br&gt;
+最后通过“我们”调查问卷的形式填写下来&lt;br&gt;
+&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738.png&#34;
+	width=&#34;754&#34;
+	height=&#34;916&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738_hu_b14b6a882eed221e.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738_hu_79babeb36c4aa38.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;82&#34;
+		data-flex-basis=&#34;197px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;创建家&#34;&gt;创建家
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243.png&#34;
+	width=&#34;800&#34;
+	height=&#34;619&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243_hu_4982f797559ef1c1.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243_hu_3b03f2631708b359.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;br&gt;
+创建&amp;quot;我们&amp;quot;所聚集的场所·共同体、故事的主舞台。家的基本设定是什么样的？有什么传闻？什么样的建筑？有哪些其他 NPC？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（这个地方）的（这样的家），邻居们将这个家称为（家的称呼）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;取得 3 个家的传闻（ウワサ）：故事默认所有的家都是因为寄宿着ウチなる力，所以会发生一些不可思议的事情，这些就形成了围绕这个家的传闻。可以自由决定，也可以骰传闻表。&lt;br&gt;
+传闻表根据类型分为四类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“奇怪的”：总是有音乐响起、没有通向任何地方的门、玄关有很多的靴子&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“非常奇怪的”：有动物园、有巨大风车、有很多骸骨&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“存在谜团的”: 有深不见底的井、发现了新的物种、经常有 UFO 来&lt;/li&gt;
+&lt;li&gt;“存在非常大谜团的”：有邪恶的秘密结社、插着圣剑、永夜、水龙头中猫冒了出来&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;创建-pc&#34;&gt;创建 PC
+&lt;/h3&gt;&lt;p&gt;创建玩家操作的 PC。同样要取得 3 个传闻，传闻不一定是真实的，如果觉得跟别人解释很麻烦的话，可以在假的传闻中加入&amp;quot;似乎&amp;quot;字样，然后用括号记载&amp;quot;实际上&amp;hellip;&amp;quot;。PC 的传闻表有“生活”“擅长”“过去”“秘密”四种类型&lt;br&gt;
+然后是 PC 的各种设定。填调查问卷。家庭中的立场是什么？在别人眼中的印象是什么？平时怎么生活的？喜欢的擅长的是什么？对家庭中的不可思议持什么看法？怎么称呼你？对其他 PC 有什么想法？&lt;br&gt;
+调查问卷比较长就不贴图了，总之都是些勾选和填空的问题。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（我）是（我们）中的（这样的人）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;游戏进行&#34;&gt;游戏进行
+&lt;/h2&gt;&lt;h3 id=&#34;基本流程&#34;&gt;基本流程
+&lt;/h3&gt;&lt;p&gt;GM 根据准备好的剧本向玩家说明 PC 所处的状况。玩家通过回答来进行游戏。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GM 说：“晚上，大家都在睡觉的时候，听到客厅里有人说话。”，玩家会说“去客厅确认说话的人”来表明自己 PC 的行动，也会问 GM“那个声音是男性还是女性，年龄多大”等问题。GM对此做出进一步回应，推动情况的发展。玩家所能宣布的基本上都是与自己的 PC 相关的事象。除此之外，还可以提出丰富故事内容的建议。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在进行过程中，GM 会向全体玩家提出被称为“ハテナ”的询问，这是对故事来说很关键的问题，玩家需要思考并回答。典型的 ハテナ 是“针对场景的状况，PC 会采取怎样的行动”。ハテナ有各种各样的种类。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ハテナ示例：朋友似乎隐瞒了什么。要问一下吗？有什么说服的材料吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;回答时，PC 可以使用家和 PC 的传闻（别人的传闻需要征得同意），没有数量和次数限制&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;示例 1：为了寻找物体使用【占卜很准】进行占卜&lt;br&gt;
+示例 2：虽然都传闻说是【吊车尾】，但实际上成绩很不错呢&lt;br&gt;
+示例 3：我因为【擅长料理】所以有很多料理道具。用手边的平底锅迎击侵入者&lt;br&gt;
+示例 4：这个家的【家电经常坏】。坏掉的家电的电源线，突然像蛇一样动起来缠住敌人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GM 听到答案后，会告诉玩家发生了什么。与这个答案相匹配而产生的现象和得到的情报称为“结果”。结果如何、需不需要补充描述由 GM 自由决定，一般的ハテナ不需要骰骰子决定成败。&lt;br&gt;
+&lt;code&gt;难题ハテナ&lt;/code&gt;：难题ハテナ是需要骰骰子确定成败的困难ハテナ。GM 宣布需要满足的成功值，玩家全体每使用一次传闻就可以骰 1 次 20 面骰，将出目的 10 位数合计，即为成功值。骰出 10~19 成功值额外+1，20 的话成功值+2。如果成功值不够，可以继续加传闻然后继续骰。&lt;br&gt;
+可以使用的传闻上限暂定是“玩家人数 x2”，如果还没有成功会触发“一发逆转模式”，最后再骰 1 次，10 以上立即成功，否则就只能失败了。&lt;br&gt;
+&lt;code&gt;无理难题ハテナ&lt;/code&gt;：成功值要求更高的ハテナ&lt;br&gt;
+&lt;code&gt;ハテナ较量&lt;/code&gt;：和其他 PC 比较出目大小，根据顺位设定结果会怎么样。&lt;/p&gt;
+&lt;h3 id=&#34;共享传闻与传闻检定&#34;&gt;共享传闻与传闻检定
+&lt;/h3&gt;&lt;p&gt;共享传闻是在游戏中追加获得的传闻，仅在本局游戏期间有效。&lt;br&gt;
+如果你完成了某件事情，自然就会引起他人的关注，名声与传闻也会随之流传开来。而 PC 彼此之间，也会对对方多多少少有些了解——会去揣测「这个人大概是这样的人吧」，或者偶然看见对方隐藏的一面。&lt;br&gt;
+因此，在获得【结果】之后、选一个恰到好处的时机，就要进行获得「共享传闻」的流程……也就是进行&lt;strong&gt;传闻检定（ウワサロール）&lt;/strong&gt;。玩家代表骰 1 次共享传闻表随机获得一个共享传闻（不能自选）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有使用传闻&amp;hellip;&amp;hellip; 不可以重骰&lt;br&gt;
+使用了传闻（少于玩家人数）&amp;hellip;&amp;hellip; 可重骰 1 次&lt;br&gt;
+使用了传闻（玩家人数以上）&amp;hellip;&amp;hellip; 可重骰 2 次&lt;br&gt;
+骰出相同结果&amp;hellip;&amp;hellip; 重骰&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;共享传闻表有四种组成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“谁人的心情”: 似乎无法变得坦率、似乎在担心、似乎在忍耐&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“与谁的关系”：似乎就算道歉也不会原谅、似乎让重要的人哭泣了、似乎很相像&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“何时发生的事”：似乎变了个人、似乎毕业了、似乎隐藏了才能&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“总感觉有些不可思议”：似乎是被操控的人偶、似乎他是黑幕、似乎作为王君临于此&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有时剧本会附带只在该故事期间使用的共享传闻表。被称为剧本传闻表。遵顼要求在指定时机使用。&lt;br&gt;
+共享传闻不一定是只能在传闻检定中获得，GM 可以在游戏进行中根据情况自由加入传闻。&lt;br&gt;
+「共享传闻」一定是以“好像是这样”“听说……”之类、真伪不明的形式来描述的。所有玩家需要一起商量，在本次团结束之前，为「本局游戏中获得的所有共享传闻」设定它们的真相。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;流程总结：问询（ハテナ） &amp;raquo; 回答（コタエ） &amp;raquo;  结果（コウナル） &amp;raquo; 传闻检定（ウワサロール）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;结局&#34;&gt;结局
+&lt;/h2&gt;&lt;p&gt;结局部分要进行后日谈、确认共享传闻的真相并消除共享传闻、获得 1 个新的家的传闻、每个 PC 获得 1 个 PC 传闻（由其他 PC 决定）。也可以删除自己认为不需要的 PC 传闻&lt;/p&gt;
+&lt;h1 id=&#34;个人评价&#34;&gt;个人评价
+&lt;/h1&gt;&lt;p&gt;没有数据的纯扮演规则，但比想象中有意思，适合代餐的规则。&lt;/p&gt;
+&lt;h1 id=&#34;相关信息&#34;&gt;相关信息
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;相关网址&lt;/strong&gt;&lt;br&gt;
+KADOKAWA STORE: &lt;a class=&#34;link&#34; href=&#34;https://store.kadokawa.co.jp/shop/g/g322504000055?ref=official&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://store.kadokawa.co.jp/shop/g/g322504000055?ref=official&lt;/a&gt;&lt;br&gt;
+Amazon JP: &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/dp/4040760220?tag=kadoofce-22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/dp/4040760220?tag=kadoofce-22&lt;/a&gt;&lt;br&gt;
+Animate Online Shop: &lt;a class=&#34;link&#34; href=&#34;https://www.animate-onlineshop.jp/pd/3298988/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.animate-onlineshop.jp/pd/3298988/&lt;/a&gt;&lt;br&gt;
+紀伊國屋書店 (Kinokuniya): &lt;a class=&#34;link&#34; href=&#34;https://www.kinokuniya.co.jp/f/dsg-01-9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.kinokuniya.co.jp/f/dsg-01-9784040760223&lt;/a&gt;&lt;br&gt;
+丸善ジュンク堂書店 (Maruzen Junkudo): &lt;a class=&#34;link&#34; href=&#34;https://www.maruzenjunkudo.co.jp/products/9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.maruzenjunkudo.co.jp/products/9784040760223&lt;/a&gt;&lt;br&gt;
+楽天ブックス (Rakuten Books): &lt;a class=&#34;link&#34; href=&#34;https://books.rakuten.co.jp/rdt/item/?sid=213310&amp;amp;sno=ISBN:9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://books.rakuten.co.jp/rdt/item/?sid=213310&amp;sno=ISBN:9784040760223&lt;/a&gt;&lt;br&gt;
+Book☆Walker (电子版): &lt;a class=&#34;link&#34; href=&#34;https://bookwalker.jp/de30c53518-6835-4c2d-8449-c85f0108a1e6/?adpcnt=g2vvr2xz&amp;amp;utm_source=kadokawa.co.jp&amp;amp;utm_medium=referral&amp;amp;utm_campaign=banner&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bookwalker.jp/de30c53518-6835-4c2d-8449-c85f0108a1e6/?adpcnt=g2vvr2xz&amp;utm_source=kadokawa.co.jp&amp;utm_medium=referral&amp;utm_campaign=banner&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>ソード・ワールド2.5サプリメント タイラントクリプト ‐墳墓と秘文‐</title>
         <link>https://our1111122222.github.io/p/%E3%82%BD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%892.5%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%88%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-%E5%A2%B3%E5%A2%93%E3%81%A8%E7%A7%98%E6%96%87/</link>
         <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
