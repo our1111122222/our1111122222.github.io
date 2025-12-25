@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>扮演向 on 生年的小站</title>
+        <link>https://our1111122222.github.io/tags/%E6%89%AE%E6%BC%94%E5%90%91/</link>
+        <description>Recent content in 扮演向 on 生年的小站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/tags/%E6%89%AE%E6%BC%94%E5%90%91/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ひとつ屋根の僕ら</title>
+        <link>https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/</link>
+        <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/</guid>
+        <description>&lt;img src="https://cdn.kdkw.jp/cover_1000/322504/322504000055.webp" alt="Featured image of post ひとつ屋根の僕ら" /&gt;&lt;p&gt;&lt;img src=&#34;https://cdn.kdkw.jp/cover_1000/322504/322504000055.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;|200&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;原文名&lt;/strong&gt;：ひとつ屋根の僕ら&lt;br&gt;
+&lt;strong&gt;参考译名&lt;/strong&gt;： 同一个屋檐下的我们&lt;br&gt;
+&lt;strong&gt;网址&lt;/strong&gt;： &lt;a class=&#34;link&#34; href=&#34;https://www.kadokawa.co.jp/product/322504000055/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.kadokawa.co.jp/product/322504000055/&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;：池梟　リョーマ &lt;br&gt;
+&lt;strong&gt;出版日期&lt;/strong&gt;：2025-12-19&lt;br&gt;
+&lt;strong&gt;价格&lt;/strong&gt;：2,640円 (B6判，276页) &lt;br&gt;
+&lt;strong&gt;官方简介（机翻）&lt;/strong&gt;： 一栋看似平平无奇的房子。但有传闻说，会发生一些奇怪的事情？这是一个有这样传闻的奇妙之家。“我们”就住在这栋房子里。&lt;br&gt;
+在奇妙的房子里度过的共同生活。我们的关系会发生一些变化的，一个有点不可思议的家庭剧TRPG。&lt;br&gt;
+▼《同一个屋檐下的我们》的开始方式&lt;br&gt;
+决定好想玩的剧本后，创建主角“我们”以及作为舞台的房子吧。&lt;br&gt;
+▼回答“为什么”&lt;br&gt;
+“早上醒来，家里竟然挤满了大量的企鹅！怎么办？”&lt;br&gt;
+这是GM提出的决定故事走向的问题。决定你的行动，并回答“ハテナ”吧。&lt;br&gt;
+▼收集传闻&lt;br&gt;
+关于“我们”、房子和不可思议事件的传闻。&lt;br&gt;
+组合这些传闻，揭示事件的真相吧。&lt;br&gt;
+大家一起讨论，创造故事的结局！&lt;br&gt;
+《同一个屋檐下的我们》是一本TRPG规则书。要玩这个游戏，除了本书，还需要每位玩家一个20面骰子和笔。&lt;br&gt;
+玩家人数：GM 1人 + 玩家 1~4人（也可以无GM进行游戏）&lt;br&gt;
+游玩时间：1小时&lt;br&gt;
+收录示例剧本：14个。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;我的笔记&#34;&gt;我的笔记
+&lt;/h1&gt;&lt;h2 id=&#34;创建部分&#34;&gt;创建部分
+&lt;/h2&gt;&lt;p&gt;整个规则都是通过填调查问卷的形式来创建的，问卷中包含各种填空和勾选问题，全部答完就是完成了角色创建。&lt;/p&gt;
+&lt;h3 id=&#34;我们是一群怎么样的人&#34;&gt;&amp;ldquo;我们&amp;quot;是一群怎么样的人？
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;&amp;quot;我们&amp;quot;&lt;/code&gt;：指玩家全体，类似其他 trpg 中的 team、party，&amp;ldquo;我们是一群怎么样的人聚集在这个家里？&amp;ldquo;可以通过三种方式决定：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参考“我们”的范例：同居人、邻居、关系好的家庭、秘密研究所（什么鬼）、魔王的宫廷&amp;hellip;。每种范例都提供了成员设定参考。&lt;/li&gt;
+&lt;li&gt;参考“我们”的共同点表：家庭、朋友、邻居、同一个学校&amp;hellip;&lt;/li&gt;
+&lt;li&gt;骰家和 PC 的传闻表作为参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745.png&#34;
+	width=&#34;962&#34;
+	height=&#34;227&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745_hu_7f90737376b2225d.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625380745_hu_aec4a3e25fa8726e.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;423&#34;
+		data-flex-basis=&#34;1017px&#34;
+	
+&gt;&lt;br&gt;
+最后通过“我们”调查问卷的形式填写下来&lt;br&gt;
+&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738.png&#34;
+	width=&#34;754&#34;
+	height=&#34;916&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738_hu_b14b6a882eed221e.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625536738_hu_79babeb36c4aa38.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;82&#34;
+		data-flex-basis=&#34;197px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;创建家&#34;&gt;创建家
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243.png&#34;
+	width=&#34;800&#34;
+	height=&#34;619&#34;
+	srcset=&#34;https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243_hu_4982f797559ef1c1.png 480w, https://our1111122222.github.io/p/%E3%81%B2%E3%81%A8%E3%81%A4%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%83%95%E3%82%89/index.zh-cn-1766625961243_hu_3b03f2631708b359.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;br&gt;
+创建&amp;quot;我们&amp;quot;所聚集的场所·共同体、故事的主舞台。家的基本设定是什么样的？有什么传闻？什么样的建筑？有哪些其他 NPC？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（这个地方）的（这样的家），邻居们将这个家称为（家的称呼）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;取得 3 个家的传闻（ウワサ）：故事默认所有的家都是因为寄宿着ウチなる力，所以会发生一些不可思议的事情，这些就形成了围绕这个家的传闻。可以自由决定，也可以骰传闻表。&lt;br&gt;
+传闻表根据类型分为四类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“奇怪的”：总是有音乐响起、没有通向任何地方的门、玄关有很多的靴子&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“非常奇怪的”：有动物园、有巨大风车、有很多骸骨&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“存在谜团的”: 有深不见底的井、发现了新的物种、经常有 UFO 来&lt;/li&gt;
+&lt;li&gt;“存在非常大谜团的”：有邪恶的秘密结社、插着圣剑、永夜、水龙头中猫冒了出来&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;创建-pc&#34;&gt;创建 PC
+&lt;/h3&gt;&lt;p&gt;创建玩家操作的 PC。同样要取得 3 个传闻，传闻不一定是真实的，如果觉得跟别人解释很麻烦的话，可以在假的传闻中加入&amp;quot;似乎&amp;quot;字样，然后用括号记载&amp;quot;实际上&amp;hellip;&amp;quot;。PC 的传闻表有“生活”“擅长”“过去”“秘密”四种类型&lt;br&gt;
+然后是 PC 的各种设定。填调查问卷。家庭中的立场是什么？在别人眼中的印象是什么？平时怎么生活的？喜欢的擅长的是什么？对家庭中的不可思议持什么看法？怎么称呼你？对其他 PC 有什么想法？&lt;br&gt;
+调查问卷比较长就不贴图了，总之都是些勾选和填空的问题。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（我）是（我们）中的（这样的人）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;游戏进行&#34;&gt;游戏进行
+&lt;/h2&gt;&lt;h3 id=&#34;基本流程&#34;&gt;基本流程
+&lt;/h3&gt;&lt;p&gt;GM 根据准备好的剧本向玩家说明 PC 所处的状况。玩家通过回答来进行游戏。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GM 说：“晚上，大家都在睡觉的时候，听到客厅里有人说话。”，玩家会说“去客厅确认说话的人”来表明自己 PC 的行动，也会问 GM“那个声音是男性还是女性，年龄多大”等问题。GM对此做出进一步回应，推动情况的发展。玩家所能宣布的基本上都是与自己的 PC 相关的事象。除此之外，还可以提出丰富故事内容的建议。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在进行过程中，GM 会向全体玩家提出被称为“ハテナ”的询问，这是对故事来说很关键的问题，玩家需要思考并回答。典型的 ハテナ 是“针对场景的状况，PC 会采取怎样的行动”。ハテナ有各种各样的种类。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ハテナ示例：朋友似乎隐瞒了什么。要问一下吗？有什么说服的材料吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;回答时，PC 可以使用家和 PC 的传闻（别人的传闻需要征得同意），没有数量和次数限制&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;示例 1：为了寻找物体使用【占卜很准】进行占卜&lt;br&gt;
+示例 2：虽然都传闻说是【吊车尾】，但实际上成绩很不错呢&lt;br&gt;
+示例 3：我因为【擅长料理】所以有很多料理道具。用手边的平底锅迎击侵入者&lt;br&gt;
+示例 4：这个家的【家电经常坏】。坏掉的家电的电源线，突然像蛇一样动起来缠住敌人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GM 听到答案后，会告诉玩家发生了什么。与这个答案相匹配而产生的现象和得到的情报称为“结果”。结果如何、需不需要补充描述由 GM 自由决定，一般的ハテナ不需要骰骰子决定成败。&lt;br&gt;
+&lt;code&gt;难题ハテナ&lt;/code&gt;：难题ハテナ是需要骰骰子确定成败的困难ハテナ。GM 宣布需要满足的成功值，玩家全体每使用一次传闻就可以骰 1 次 20 面骰，将出目的 10 位数合计，即为成功值。骰出 10~19 成功值额外+1，20 的话成功值+2。如果成功值不够，可以继续加传闻然后继续骰。&lt;br&gt;
+可以使用的传闻上限暂定是“玩家人数 x2”，如果还没有成功会触发“一发逆转模式”，最后再骰 1 次，10 以上立即成功，否则就只能失败了。&lt;br&gt;
+&lt;code&gt;无理难题ハテナ&lt;/code&gt;：成功值要求更高的ハテナ&lt;br&gt;
+&lt;code&gt;ハテナ较量&lt;/code&gt;：和其他 PC 比较出目大小，根据顺位设定结果会怎么样。&lt;/p&gt;
+&lt;h3 id=&#34;共享传闻与传闻检定&#34;&gt;共享传闻与传闻检定
+&lt;/h3&gt;&lt;p&gt;共享传闻是在游戏中追加获得的传闻，仅在本局游戏期间有效。&lt;br&gt;
+如果你完成了某件事情，自然就会引起他人的关注，名声与传闻也会随之流传开来。而 PC 彼此之间，也会对对方多多少少有些了解——会去揣测「这个人大概是这样的人吧」，或者偶然看见对方隐藏的一面。&lt;br&gt;
+因此，在获得【结果】之后、选一个恰到好处的时机，就要进行获得「共享传闻」的流程……也就是进行&lt;strong&gt;传闻检定（ウワサロール）&lt;/strong&gt;。玩家代表骰 1 次共享传闻表随机获得一个共享传闻（不能自选）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有使用传闻&amp;hellip;&amp;hellip; 不可以重骰&lt;br&gt;
+使用了传闻（少于玩家人数）&amp;hellip;&amp;hellip; 可重骰 1 次&lt;br&gt;
+使用了传闻（玩家人数以上）&amp;hellip;&amp;hellip; 可重骰 2 次&lt;br&gt;
+骰出相同结果&amp;hellip;&amp;hellip; 重骰&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;共享传闻表有四种组成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“谁人的心情”: 似乎无法变得坦率、似乎在担心、似乎在忍耐&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“与谁的关系”：似乎就算道歉也不会原谅、似乎让重要的人哭泣了、似乎很相像&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“何时发生的事”：似乎变了个人、似乎毕业了、似乎隐藏了才能&amp;hellip;&lt;/li&gt;
+&lt;li&gt;“总感觉有些不可思议”：似乎是被操控的人偶、似乎他是黑幕、似乎作为王君临于此&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有时剧本会附带只在该故事期间使用的共享传闻表。被称为剧本传闻表。遵顼要求在指定时机使用。&lt;br&gt;
+共享传闻不一定是只能在传闻检定中获得，GM 可以在游戏进行中根据情况自由加入传闻。&lt;br&gt;
+「共享传闻」一定是以“好像是这样”“听说……”之类、真伪不明的形式来描述的。所有玩家需要一起商量，在本次团结束之前，为「本局游戏中获得的所有共享传闻」设定它们的真相。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;流程总结：问询（ハテナ） &amp;raquo; 回答（コタエ） &amp;raquo;  结果（コウナル） &amp;raquo; 传闻检定（ウワサロール）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;结局&#34;&gt;结局
+&lt;/h2&gt;&lt;p&gt;结局部分要进行后日谈、确认共享传闻的真相并消除共享传闻、获得 1 个新的家的传闻、每个 PC 获得 1 个 PC 传闻（由其他 PC 决定）。也可以删除自己认为不需要的 PC 传闻&lt;/p&gt;
+&lt;h1 id=&#34;个人评价&#34;&gt;个人评价
+&lt;/h1&gt;&lt;p&gt;没有数据的纯扮演规则，但比想象中有意思，适合代餐的规则。&lt;/p&gt;
+&lt;h1 id=&#34;相关信息&#34;&gt;相关信息
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;相关网址&lt;/strong&gt;&lt;br&gt;
+KADOKAWA STORE: &lt;a class=&#34;link&#34; href=&#34;https://store.kadokawa.co.jp/shop/g/g322504000055?ref=official&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://store.kadokawa.co.jp/shop/g/g322504000055?ref=official&lt;/a&gt;&lt;br&gt;
+Amazon JP: &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/dp/4040760220?tag=kadoofce-22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/dp/4040760220?tag=kadoofce-22&lt;/a&gt;&lt;br&gt;
+Animate Online Shop: &lt;a class=&#34;link&#34; href=&#34;https://www.animate-onlineshop.jp/pd/3298988/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.animate-onlineshop.jp/pd/3298988/&lt;/a&gt;&lt;br&gt;
+紀伊國屋書店 (Kinokuniya): &lt;a class=&#34;link&#34; href=&#34;https://www.kinokuniya.co.jp/f/dsg-01-9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.kinokuniya.co.jp/f/dsg-01-9784040760223&lt;/a&gt;&lt;br&gt;
+丸善ジュンク堂書店 (Maruzen Junkudo): &lt;a class=&#34;link&#34; href=&#34;https://www.maruzenjunkudo.co.jp/products/9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.maruzenjunkudo.co.jp/products/9784040760223&lt;/a&gt;&lt;br&gt;
+楽天ブックス (Rakuten Books): &lt;a class=&#34;link&#34; href=&#34;https://books.rakuten.co.jp/rdt/item/?sid=213310&amp;amp;sno=ISBN:9784040760223&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://books.rakuten.co.jp/rdt/item/?sid=213310&amp;sno=ISBN:9784040760223&lt;/a&gt;&lt;br&gt;
+Book☆Walker (电子版): &lt;a class=&#34;link&#34; href=&#34;https://bookwalker.jp/de30c53518-6835-4c2d-8449-c85f0108a1e6/?adpcnt=g2vvr2xz&amp;amp;utm_source=kadokawa.co.jp&amp;amp;utm_medium=referral&amp;amp;utm_campaign=banner&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bookwalker.jp/de30c53518-6835-4c2d-8449-c85f0108a1e6/?adpcnt=g2vvr2xz&amp;utm_source=kadokawa.co.jp&amp;utm_medium=referral&amp;utm_campaign=banner&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EDGE FLIPPERS 人与怪异的夹缝RPG</title>
+        <link>https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/</link>
+        <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/</guid>
+        <description>&lt;img src="https://m.media-amazon.com/images/I/919fFFPXrSL._SY425_.jpg" alt="Featured image of post EDGE FLIPPERS 人与怪异的夹缝RPG" /&gt;&lt;p&gt;&lt;img src=&#34;https://m.media-amazon.com/images/I/919fFFPXrSL._SY425_.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;|200&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;原文名&lt;/strong&gt;：EDGE FLIPPERS 人与怪异的夹缝RPG&lt;br&gt;
+&lt;strong&gt;参考译名&lt;/strong&gt;： EDGE FLIPPERS 人与怪异的夹缝RPG&lt;br&gt;
+&lt;strong&gt;网址&lt;/strong&gt;： 当前网页: &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/-/zh/dp/B0FL648VZD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/-/zh/dp/B0FL648VZD&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;：松永 春之助 &lt;br&gt;
+&lt;strong&gt;出版日期&lt;/strong&gt;：2025-08-20&lt;br&gt;
+&lt;strong&gt;价格&lt;/strong&gt;：JP¥2,479 (文件大小 125.3 MB)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;官方简介机翻&#34;&gt;官方简介（机翻）：
+&lt;/h1&gt;&lt;p&gt;怪异与人类——连接两者领域模糊的世界的现代怪奇 RPG！&lt;br&gt;
+在本作中，你可以创造只属于自己的角色，并通过扮演该角色来体验各种各样的故事。无需特殊的道具或游戏机。&lt;br&gt;
+只要有规则书、一起游玩的朋友以及想象力，之后只需简单的准备就可以开始游戏了。&lt;br&gt;
+要说能体验什么样的故事，比如——&lt;br&gt;
+去因灵异现象而闻名的地点，结果遭遇了真正的怪异；&lt;br&gt;
+受其实是怪异的粗点心店大婶所托去办事；&lt;br&gt;
+凶恶的邪神即将复活，为了封印它而四处奔走；&lt;br&gt;
+怪异的住处因为施工快被破坏了，所以跑去吓唬人类；&lt;br&gt;
+人类和怪异一起去旅行，结果误入了奇怪的祭典——&lt;br&gt;
+你可以游玩诸如此类，【人类】与【怪异】相互关联、大大小小的各种故事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 人类与怪异共存的世界&lt;/strong&gt;&lt;br&gt;
+在这个世界上，不仅有人类，也存在着怪异。&lt;br&gt;
+只不过，双方频繁交流的场所很少，基本上都在各自的领域分居生活。&lt;br&gt;
+这个世界大体分为人类居住的［人类领域］，以及怪异居住的［怪异领域］。&lt;br&gt;
+虽说是领域，但并非指特殊的异空间，它们都是地脉相连、共同存在的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 越境比率&lt;/strong&gt;&lt;br&gt;
+这个世界上存在的所有事物，都蕴含着【人类】与【怪异】双方的力量。&lt;br&gt;
+根据力量强弱的倾向，会呈现出【偏向人类】的姿态，或【偏向怪异】的姿态。&lt;br&gt;
+（此外，由于大多数人类不知道这件事，经常会发生某天早上醒来突然变成了【偏向怪异】的姿态而惊慌失措的情况）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 狭间领域&lt;/strong&gt;&lt;br&gt;
+既不是【偏向人类】也不是【偏向怪异】，即【越境比率】不偏向任何一方的领域，被称为［狭间领域］。&lt;br&gt;
+［狭间领域］大多是特殊的场所，既有可能是人类与怪异的休憩之地，也有可能是异常现象多发的危险空间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 何为怪异？&lt;/strong&gt;&lt;br&gt;
+指【越境比率】处于【怪异侧】状态的所有事物。&lt;br&gt;
+怪异也与历史上的许多场面有关，神话、民间故事、都市传说中提及的存在也有很多属于怪异。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 何为人类？&lt;/strong&gt;&lt;br&gt;
+指【越境比率】处于【人类侧】状态，也就是人类侧的力量较强的事物。路边的猫狗、天上飞的鸟，其实也都是【人类侧】的存在。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶ 越境者&lt;/strong&gt;&lt;br&gt;
+指能够干涉他人的【越境比率】，让人类向怪异、怪异向人类进行［越境］的人。这种［越境］并非单方面的，而是通过交换彼此体内【人类】与【怪异】的力量来实现。&lt;/p&gt;
+&lt;h1 id=&#34;我的笔记&#34;&gt;我的笔记
+&lt;/h1&gt;&lt;h2 id=&#34;角色创建&#34;&gt;角色创建
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765713749534.png&#34;
+	width=&#34;1364&#34;
+	height=&#34;736&#34;
+	srcset=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765713749534_hu_e81bbf933d255816.png 480w, https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765713749534_hu_8ef27a53dddc6eeb.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;185&#34;
+		data-flex-basis=&#34;444px&#34;
+	
+&gt;&lt;br&gt;
+&lt;code&gt;出身的决定&lt;/code&gt;：所谓出身，就是表示这个角色降生到这个世界上的时候，是作为【人类】还是作为【怪异】出生的。基本决定了成长环境是人类侧还是怪异侧。&lt;br&gt;
+&lt;code&gt;个人数据&lt;/code&gt;：姓名、性别、容姿（容姿要⻋人类和怪异两种形态下的）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人类容姿：看起来的年龄+服装氛围（有随机表格）&lt;/li&gt;
+&lt;li&gt;怪异容姿：选2个“怪异的形状（” 分泌粘液、透明、不定形….）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;心理（Mentality）&lt;/code&gt;：是rp的参考。分别选一个主要心理状态（表现角色主要内在）和侧面心理状态（偶尔会表露出来，平时隐藏的一面）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在【主要心理】中设定“爱哭鬼”，在【侧面心理】中设定“逞强”的话，就会变成平时爱哭，但在关键时刻又会振作起来，表现出逞强的样子这样的角色。&lt;/li&gt;
+&lt;li&gt;角色可以有3个侧面心理，剩下2个会在剧本结束后获得。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;身份（Identity）&lt;/code&gt;：表现角色能力⽅面的设定。【人类】的【身份】代表社会身份、职业、特长以及不擅长的事情。【怪异】的【身份】表示【怪异】的能力和弱点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人类和怪异的【身份】各选3个，包含【职业】【能力】【弱点】三种（可以选重复种类）。&lt;/li&gt;
+&lt;li&gt;都是画风，没有数据。弱点也不会造成实际负面效果。可以从表格里选，也可以自己新建。表格里倒是给出了选这种【身份】会对应怎样的故事引子。&lt;br&gt;
+&lt;img src=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714217407.png&#34;
+	width=&#34;825&#34;
+	height=&#34;340&#34;
+	srcset=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714217407_hu_9d8633e1d624d3b8.png 480w, https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714217407_hu_272bfa2794ccac02.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;242&#34;
+		data-flex-basis=&#34;582px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;获取技能&lt;/code&gt;：【技能】表示该角色的性质和擅长领域。它可以让[判定]更有利地进行，也可以在你无论如何都想得到特定骰子点数时帮助你达成，或者调整越境比率。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先自动获得两个共通技能：「ひとやすみ」（将怪异骰转换为人类骰）「怪異のよふかし」（将人类骰转换为怪异骰）&lt;/li&gt;
+&lt;li&gt;从人类技能和怪异技能中选择合计3个。人类侧只能使用人类技能、怪异侧只能使用怪异技能、狭间都可以。&lt;/li&gt;
+&lt;li&gt;技能记载有条件，满足条件可以使用。条件分为【提示】和【消费】。提示只需要将自己拥有的对应出目和种类的骰子（比如出目为2的人类骰）出示给GM即可，【消费】则需要将自己拥有的该骰移除。&lt;br&gt;
+&lt;img src=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714784442.png&#34;
+	width=&#34;872&#34;
+	height=&#34;518&#34;
+	srcset=&#34;https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714784442_hu_197bbf0b8851bd24.png 480w, https://our1111122222.github.io/p/edge-flippers-%E4%BA%BA%E4%B8%8E%E6%80%AA%E5%BC%82%E7%9A%84%E5%A4%B9%E7%BC%9Drpg/index.zh-cn-1765714784442_hu_954d2405d1f741a2.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;404px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;规则&#34;&gt;规则
+&lt;/h2&gt;&lt;h3 id=&#34;越境比率&#34;&gt;越境比率
+&lt;/h3&gt;&lt;p&gt;代表该角色或场所持有的【人类骰】和【怪异骰】谁多谁少。分别对应人类侧、怪异侧、和狭间状态。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;游戏过程中可以向GM确认越境比率，回答是人类侧、怪异侧或者狭间&lt;/li&gt;
+&lt;li&gt;骰子全部归0，人物Lost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;流程&#34;&gt;流程
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;准备：最初要做的事&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根据【出身】获得4个人类骰或怪异骰，投掷，将出目摆在自己面前。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;开场-描绘故事发端&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;主要 -调查情报和与NPC交流，目的是获得《关键道具》，进而推进到高潮阶段。&lt;/strong&gt;&lt;br&gt;
+场景制推进，逐个成为场景玩家。场景玩家需要选择handout进行对应判定或与NPC进行交流。GM 公开 handout（跟骰话的那种 handout 有点类似，是一些包含情报的情景）&lt;br&gt;
+&lt;code&gt;handout判定&lt;/code&gt;：场景玩家从GM公开的handout中确定其[名称][判定]和[解决条件]，然后选择1个进行判定，判定分为[行动判定]和[越境判定]（操作他人的越境比率）。通过判定[解决] handout后，会获得情报或《关键道具》&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;行动判定：根据[解决条件]出示或消耗骰子，满足条件即为[解决]&lt;/li&gt;
+&lt;li&gt;越境判定：将角色与[越境]对象（非玩家）的骰子任意数量调换，使[越境]对象的越境比率达到解决条件要求（比如使人类越境到怪异）。越境判定可以全体玩家共同完成。&lt;/li&gt;
+&lt;li&gt;根据[解决]或[未解决]会走向不同剧情分支&lt;/li&gt;
+&lt;li&gt;由于剧本或判定，可能导致角色获得【后遗症】（猫耳变不回去之类的，rp用）&lt;/li&gt;
+&lt;li&gt;过负载：一次剧本中，可以重骰3次骰子的规则，会获得后遗症。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;交流&lt;/code&gt;：和NPC交流，最后能获得1个人类骰或怪异骰，在一局游戏中从每个NPC那只能获得1个骰（玩家间分开计算）。随着交流深入可能获得《关键道具》&lt;br&gt;
+场景中受到环境和NPC[影响]会增减骰子数，发生或解除【后遗症】&lt;br&gt;
+&lt;strong&gt;高潮-剧本的高潮&lt;/strong&gt;&lt;br&gt;
+高潮视为一个场景，场景中有复数个[高潮事件]，玩家顺次成为场景玩家&lt;br&gt;
+高潮中的判定包括全力判定（竭尽全力挑战某件事情）、术式判定（精密操作、仪式准备等）、存在判定（忍耐诅咒、超越极限状态等）、拮抗判定（力量比试、对抗等）、大规模越境判定（对大片土地、极为强大的存在等进行越境）、都市判定（通过在人类社会生活的人、作为人类所掌握的技术、人脉等来解决事物）、超常判定（利用在怪异领域”生活者、怪异所拥有的特殊能力、对怪异的畏惧和信仰来解决事物）、召唤判定（召唤强大神话存在等）。&lt;br&gt;
+&lt;strong&gt;结局-后续的描写，判定结果处理。&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;桌后谈-角色情报的整理。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果越境比例与【出身】相反会导致【残灯】增加。这代表了角色的灵魂受到[越境]的负荷，出现无法恢复原状的情况，累计出现3次【残灯】会失去【越境者】的能力，人物Lost&lt;/li&gt;
+&lt;li&gt;可以获得【侧面心理】1个、&lt;/li&gt;
+&lt;li&gt;可以替换【身份】&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;个人评价&#34;&gt;个人评价
+&lt;/h1&gt;&lt;p&gt;插画挺好看的。没了。&lt;br&gt;
+&amp;hellip;&amp;hellip;&lt;br&gt;
+好吧，总之这个交换越境的想法挺有意思的，但规则里开发的很有限，限制还很多。另外数据约等于没有，就是个纯 RP 规则。&lt;br&gt;
+今年这种现代怪异主题的 TRPG 新作真多，这是什么热潮吗？&lt;/p&gt;
+&lt;h1 id=&#34;相关信息&#34;&gt;相关信息
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;相关网址&lt;/strong&gt;&lt;br&gt;
+商品页面: &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/-/zh/dp/B0FL648VZD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/-/zh/dp/B0FL648VZD&lt;/a&gt;&lt;br&gt;
+作者页面 (松永 春之助): &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/-/zh/%E6%9D%BE%E6%B0%B8-%E6%98%A5%E4%B9%8B%E5%8A%A9/e/B0FMFGYDBH/ref=dp_byline_cont_ebooks_1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/-/zh/%E6%9D%BE%E6%B0%B8-%E6%98%A5%E4%B9%8B%E5%8A%A9/e/B0FMFGYDBH/ref=dp_byline_cont_ebooks_1&lt;/a&gt;&lt;br&gt;
+作者页面 (瀧里 フユ): &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/-/zh/s/ref=dp_byline_sr_ebooks_2?ie=UTF8&amp;amp;field-author=%E7%80%A7%E9%87%8C&amp;#43;%E3%83%95%E3%83%A6&amp;amp;text=%E7%80%A7%E9%87%8C&amp;#43;%E3%83%95%E3%83%A6&amp;amp;sort=relevancerank&amp;amp;search-alias=digital-text&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/-/zh/s/ref=dp_byline_sr_ebooks_2?ie=UTF8&amp;field-author=%E7%80%A7%E9%87%8C+%E3%83%95%E3%83%A6&amp;text=%E7%80%A7%E9%87%8C+%E3%83%95%E3%83%A6&amp;sort=relevancerank&amp;search-alias=digital-text&lt;/a&gt;&lt;br&gt;
+插图作者页面 (寿 なし子): &lt;a class=&#34;link&#34; href=&#34;https://www.amazon.co.jp/-/zh/s/ref=dp_byline_sr_ebooks_3?ie=UTF8&amp;amp;field-author=%E5%AF%BF&amp;#43;%E3%81%AA%E3%81%97%E5%AD%90&amp;amp;text=%E5%AF%BF&amp;#43;%E3%81%AA%E3%81%97%E5%AD%90&amp;amp;sort=relevancerank&amp;amp;search-alias=digital-text&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.amazon.co.jp/-/zh/s/ref=dp_byline_sr_ebooks_3?ie=UTF8&amp;field-author=%E5%AF%BF+%E3%81%AA%E3%81%97%E5%AD%90&amp;text=%E5%AF%BF+%E3%81%AA%E3%81%97%E5%AD%90&amp;sort=relevancerank&amp;search-alias=digital-text&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
