@@ -7,7 +7,161 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://our1111122222.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>三國志演技</title>
+        <link>https://our1111122222.github.io/p/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80/</link>
+        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://our1111122222.github.io/p/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80/</guid>
+        <description>&lt;img src="https://our1111122222.github.io/images/%E4%B8%89%E5%9B%BD%E5%BF%97%E6%BC%94%E6%8A%80.jpg" alt="Featured image of post 三國志演技" /&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/images/%e4%b8%89%e5%9b%bd%e5%bf%97%e6%bc%94%e6%8a%80.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;|200|293x410&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;原文名&lt;/strong&gt;：三國志演技&lt;br&gt;
+&lt;strong&gt;参考译名&lt;/strong&gt;： 三國志演技&lt;br&gt;
+&lt;strong&gt;网址&lt;/strong&gt;： &lt;a class=&#34;link&#34; href=&#34;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;作者&lt;/strong&gt;：F.E.A.R. (たのあきら) &lt;br&gt;
+&lt;strong&gt;出版日期&lt;/strong&gt;：1995&lt;br&gt;
+&lt;strong&gt;价格&lt;/strong&gt;：B5软精装 &lt;br&gt;
+&lt;strong&gt;简介&lt;/strong&gt;： 《&lt;strong&gt;三國志演技&lt;/strong&gt;》（さんごくしえんぎ）是由たのあきら和F.E.A.R.制作的桌上角色扮演游戏（以下简称TRPG）。1995年由光荣（现光荣特库摩游戏）以书籍形式发行。《三國志演技》是一款以中国三国时代为背景的桌上角色扮演游戏，玩家扮演三国时期的武将，目标是建立功勋并晋升。游戏深受光荣公司《三國志》历史模拟游戏系列的影响，将合战和内政等元素融入规则。玩家角色并非普通武将，而是影响国家命运的豪杰，其个人能力在解决国家大事（如战争）中扮演关键角色，允许玩家体验如同武侠小说般的英雄主义。系统上，角色创建采用职业制（如武人、文官），并设有“超绝技能”作为英雄点数，使玩家能够单枪匹马地左右国家命运。其独特的“立身出世”转职规则，让玩家在短短数次游戏后就能从武人晋升为将军，快速体验社会地位的提升。行为判定采用上方判定，通过掷两枚六面体骰子的总和加上能力值和技能值来判断成功。集団战斗则通过“穿梭计量器”这一抽象系统进行，模拟大规模战斗中双方阵营的推进与对峙，以直观且豪迈的方式呈现了三国时期战争的氛围。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;我的笔记&#34;&gt;我的笔记
+&lt;/h1&gt;&lt;p&gt;部分译法参考三国志 trpg 交流群的译本，如果对规则感兴趣可加群了解 677360997。&lt;/p&gt;
+&lt;h2 id=&#34;人物创建&#34;&gt;人物创建
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/index.zh-cn-1768394448090.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;决定登场人物种类&lt;/strong&gt;：有武人、文人、间谍、商人、女杰五种。自由决定，最好 PC 间选不一样的&lt;br&gt;
+&lt;strong&gt;命数&lt;/strong&gt;：代表人物的运势及寿命。为0时人物死亡。初始 80。&lt;br&gt;
+&lt;strong&gt;能力值&lt;/strong&gt;：有《武力》、《机敏》、《风采》、《交涉》、《智力》、《指挥》。每个人物种类有一项擅长的能力值（数值为 65），其余将60、55、50、45、40 自由填入。&lt;br&gt;
+&lt;strong&gt;能力修正值&lt;/strong&gt;：命数和能力值都需要将十位数写在虚线左边，个位数写在右边。其中十位数，也就是虚线左边的数字，称为[能力修正值]，可以加到判定中。&lt;br&gt;
+&lt;strong&gt;技能&lt;/strong&gt;：技能有和能力值同名的 6 类（具体技能如上图），从0至五段共分六个等级。0段技能表示角色并没有掌握这一技能。五段技能并非表示三国志世界中的最高技能水平，而是说明个人对这一技能掌握的熟练程度。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;除了每类人物设定的初期技能外，可以花费 50 技能点自由学习技能，每升一段花费为[技能段位×10点]&lt;/li&gt;
+&lt;li&gt;技能的修正值栏就是填所属能力值的修正值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;无名登场人物的冒险&lt;/strong&gt;&lt;br&gt;
+无名的年轻人是一名武人，因此拥有&amp;lt;白刃&amp;gt;二段与&amp;lt;挑衅&amp;gt;一段。&lt;br&gt;
+在可自由选择的武术系技能中，他选择了&amp;lt;投射&amp;gt;与&amp;lt;马术&amp;gt;。&lt;br&gt;
+尽管他下定决心要单枪匹马在这世道上闯荡，但这样的技能配置仍然显得过于单薄。于是，他决定使用 50 点初期技能获得点，尽可能多地取得各种技能。&lt;br&gt;
+为了体现武人应有的风格，他分别取得了&amp;lt;威压&amp;gt;一段与&amp;lt;礼仪作法&amp;gt;一段，消耗了 20 点。&lt;br&gt;
+另外，为了在受伤时能够自救，他取得了&amp;lt;医术&amp;gt;一段；在说服他人时也不愿意用谎言，因此取得了&amp;lt;真心&amp;gt;一段；又为了将来有朝一日能够率领部队，他取得了&amp;lt;阵形&amp;gt;一段。&lt;br&gt;
+至此，50 点全部用尽。无名的年轻人的技能就这样确定了下来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;来历&lt;/strong&gt;：骰表决定角色的来历。有&amp;quot;有利表&amp;quot;和&amp;quot;不利表&amp;quot;两种 2d6 表。先 1d6 决定骰哪些表，再 2d6 骰对应表。除了各种 buff 效果外，还可以可以获得一些来历表独有的技能。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;无名登场人物的冒险&lt;/strong&gt;&lt;br&gt;
+无名的年轻人掷出了来历表，以决定自身的过去与出身。&lt;br&gt;
+首先掷一颗骰子，结果为4，因此获得有利表2次、不利表1次。&lt;br&gt;
+分别掷表的结果为：&lt;br&gt;
+有利表为（2-2 瑞运）、（6-4 伙伴兽）；&lt;br&gt;
+不利表为（1-1 大酒鬼）。&lt;br&gt;
+他与管理者商量后，将有利表的（2-2 瑞运）设定为：将来会迎来幸福的婚姻，建立圆满的家庭，并被许诺长寿。&lt;br&gt;
+他刻意没有将其设为“能够成为将军”，因为他认为，人生最大的目标如果一开始就被保证好，那就太无趣了。&lt;br&gt;
+此外，这也使他的命数变为 90。&lt;br&gt;
+而（6-4 伙伴兽）则被设定为：他身边跟随着一头巨大的黑熊。&lt;br&gt;
+无名的年轻人为这个可靠的同伴取名为「墨兽」。&lt;br&gt;
+只是，不利表的（1-1 大酒饮み）希望不要像张飞将军那样，最终招来不幸的结果吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;携带物&lt;/strong&gt;：从携带物表中自己选。是套装的形式。比如可以选武人 A 套装，包含衣服、武器、铠、水袋、普通的马、金袋 x3。具体什么武器参考各兵器一览表（短、长、软、投射、暗器），不同类型兵器用法和数据修正不同，但同类型兵器只有画风不同（比如棍和大刀在规则和数据上是一样的）。&lt;br&gt;
+&lt;strong&gt;超绝能力&lt;/strong&gt;：核心玩法之一。每种类的人物都有各自的特殊能力，被称为&amp;quot;超绝能力&amp;quot;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;武人&lt;/code&gt;：武人的超绝能力包括&amp;quot;知敌知己&amp;quot;和&amp;quot;死里求生&amp;quot;。&amp;ldquo;知敌知己&amp;quot;判定通过后可以知道敌人的强度。&amp;ldquo;死里求生&amp;quot;规则可以掷骰并参考死里求生一览表为角色设定一个 大喝，在游戏中满足条件时可以仅一次使用该 大喝 获得各种效果。比如【不过是班门弄斧】可以在个人战斗中对方施了超绝能力的情况下，使对方所使用的超绝能力无效化。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;文人&lt;/code&gt;：文人的超绝能力是&amp;quot;三十六计&amp;rdquo;，可以为角色设定一计，在游戏中满足条件时使用，比如【打草惊蛇】可以找出对方的位置，【调虎离山】可以激怒并引诱出敌人。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;间谍&lt;/code&gt;：间谍的超绝能力是“鸡鸣狗盗”，可以为角色设定一技，在游戏中满足条件时使用，比如【梁上君子】可以让你的&amp;lt;轻身&amp;gt;判定总是成功，【千里眼】可以让你的&amp;lt;直觉&amp;gt;判定总是成功。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;商人&lt;/code&gt;：商人的超绝能力是“四海同胞”，可以为角色设定一个台词，在游戏中满足条件时使用，比如【哦，略有人脉】可以花钱买到所需要的东西，【哦，童叟无欺】可以用魔鬼般的说话术让对方相信自己的话。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;女杰&lt;/code&gt;：女杰的超绝能力包括&amp;quot;知敌知己&amp;quot;和“巾帼英雄”。“巾帼英雄”可以为角色设定一个伎艺，在游戏中满足条件时使用，比如【凤头鞋宝镫斜踏】可以让&amp;lt;马术&amp;gt;判定+2 修正；【百花丛里隔红妆】可以隐藏自己。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;名字&lt;/strong&gt;：决定姓名，字，或者绰号。&lt;br&gt;
+&lt;strong&gt;金袋&lt;/strong&gt;：因为三国时期动荡不安，铜钱贬值，因此本作以随身携带的金袋为货币进行购物。不需要支付金袋的便宜物品在物品表的价格处标记为“1”。在购买这些物品时，玩家只要不处于身无分文的状态，就不需要消耗金袋或进行判定。&lt;/p&gt;
+&lt;h2 id=&#34;行为判定&#34;&gt;行为判定
+&lt;/h2&gt;&lt;p&gt;行为判定使用 2d6 骰。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2d6+角色的能力值修正值＋技能段位&amp;gt;=设定的难易度（判定成功）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;如果该行为判定没有适合的技能，GM可以要求不带技能的进行判定。&lt;/li&gt;
+&lt;li&gt;角色受伤状态下，2d6 变为 1d6&lt;/li&gt;
+&lt;li&gt;对抗判定就是[ 2d6+角色的能力值修正值＋技能段位]比大小。&lt;/li&gt;
+&lt;li&gt;一般来说能力值都是使用十位数作为修正值，但一局游戏中可以[个位数]次向上取整使十位数+1 来计算修正值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;战斗&#34;&gt;战斗
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://our1111122222.github.io/Pasted%20image%2020260116175404.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;br&gt;
+战斗分为个人战和合战，合战规则在扩展书里（时代久远很难入手），所以只能从个人战进行介绍。&lt;br&gt;
+白刃战采用了&amp;quot;推棋子&amp;quot;的方式进行战斗，简单来说的话，就是在一共 9 格的战斗板上，将棋子放在中间格子，双方骰 2d6. 比较[2d6+白刃武力修正值] 的大小，谁更大谁胜利，可以向前移动棋子，如果棋子被推到己方的“死亡格”上，则角色死亡。如果推到了对应配角的“逃亡格”上，则对应配角士气崩溃并尝试逃亡。（比如杂兵是推 1 格就会士气崩溃，普通兵要推两格）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一次判定可以移动的格数跟武器的修正有关，另外如果出现双 6 则可以追加移动，双 1 则反过来需要后退。&lt;/li&gt;
+&lt;li&gt;投降：如果战斗处于不利可以宣言投降，战斗结束，投降的角色成为俘虏。&lt;/li&gt;
+&lt;li&gt;一对多：所有人掷骰，单人侧的结果需要大于所有敌人才能移动，多人侧只要有一个人赢了就可以移动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;远程战类似白刃战，区别在于飞行武器可以先进行一次先制攻击，以及判定失败不会受到伤害，但远距离战不能连续进行，射击结束转入正常白刃战（这是假定准备下一次射击时敌人接近过来）。&lt;br&gt;
+关于集团战斗部分，因为没有扩展书所以只能搬 wiki 上的内容：&lt;br&gt;
+集团战斗不是在地图上，而是在被称为“穿梭量表”的直线上排列的方格上进行。在这个穿梭计的两端分别放置自军和敌军的棋子，根据行为判定的对决，各军的棋子会朝向对方的棋子前进。棋子与棋子接触后会进行“推挤”，在推挤判定中胜利的一方可以前进，失败的一方则后退。像这样，将对手的棋子完全推到量规之外的一方获胜。虽然是相当粗略且豪爽的规则，但实际上中国三国时代的大规模战斗也有数十万士兵互相推挤交战的情形，所以也可以说是简单反映三国时代战争气氛的规则。&lt;/p&gt;
+&lt;h2 id=&#34;计谋&#34;&gt;计谋
+&lt;/h2&gt;&lt;p&gt;文人可以发挥知识和想象力来使用计谋，从三十六计中选择一计，接着向主持人申请如何应用该计谋以及如何执行，主持人决定其难度，然后玩家骰 2d6，如果[2d6+计谋修正值]在主持人设定的难度以上，则计谋成功。&lt;br&gt;
+然而，实施成功的计谋仍然有被识破的可能，任何登场人物都可以使用&amp;quot;计谋看破&amp;rdquo;。骰 2d6，如果[2d6+情报分析修正值]在主持人设定的难度以上，则成功识破计谋。主持人可以在不告知难度的情况下进行计谋看破；玩家之间的话则是进行计谋与情报分析的对抗判定。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;三十六计规则&lt;/strong&gt;：文人每局游戏可以使用一次设定为超绝能力的计谋，该计谋不需要判定直接成功。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;授予计谋&lt;/strong&gt;：文人可以将通过&amp;quot;三十六计规则&amp;quot;获得的计谋授予其他角色使用。共享那次使用次数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;会发生这种事早在我的预料之中&amp;hellip;&lt;/strong&gt;：文人可以向主持人宣言其角色事先预测到了当前发生的情况并已经施下计谋，主持人将考虑是否可能预测到并决定难度，后续步骤与计谋一致。如果能向主持人说明该预测的合理性，则可以降低难度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;潜入&#34;&gt;潜入
+&lt;/h2&gt;&lt;p&gt;在秘密潜入建筑时，通常会面临各种障碍。这些障碍的数值化规则被称为“潜入判定”。建筑物可能存在以下障碍：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;规模&lt;/strong&gt;：建筑物的大小，即到达目标地点的距离（1~9）。规模越大，侵入的难度越高。规模 9 的情况下需要进行 9 次侵入判定，若不成功则无法到达目的地。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;警备力&lt;/strong&gt;：对不法侵入者的防御能力。分为潜入判定失败就会出现的警备力；失败也可以再尝试的障碍物警备力；以及判定失败不会被发现，但也无法再次尝试的机械警备力（锁之类的）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;潜入的进行使用与战斗相同的板子，根据建筑物的规模留出到边缘的格子数放置棋子，主持人宣言前进到下一格所需的警备力和类型，潜入的玩家进行侵入检定[对应的技能修正值＋2D]，判定成功则可以前进一格，判定失败的话，如果警备力类型是像人或狗这样发现类型的警备力，则侵入失败并转为逃跑。如果是机械警备力，由于只能尝试一次所以也会导致侵入失败。重复前进直到抵达边缘则侵入成功。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;双 6 可以自动前进一格，双 1 自动失败。&lt;/li&gt;
+&lt;li&gt;多人潜入的话，如果是人和狗这样的警备力，只要有一人失败则全员失败。机械警备力的情况下也只能有一个人尝试判定。&lt;/li&gt;
+&lt;li&gt;一次入侵检定 10 分钟，声明快速行动可以缩减到 5 分钟但难易度+2。声明小心行动可以让难易度-2 但判定时长为 20 分钟。&lt;/li&gt;
+&lt;li&gt;逃跑按竞争规则解决。这个规则的竞争规则类似 COC，将追逐者跟被追逐者放在战斗板上相隔 2 格处，双方进行 2d6 +移动力比拼，数值更大的一方获胜并移动 1 格。重复此过程直到被追逐者逃到边缘（逃脱成功）或者与追逐者重叠（逃脱失败）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;交涉&#34;&gt;交涉
+&lt;/h2&gt;&lt;p&gt;商人因其职业关系拥有许多熟人。同时，他们也需要能迅速与从未见过的人打成一片。用于表达与熟人相遇或结交朋友的机制即为“有朋远来规则”。“有朋远来规则”包括知人判定和朋友判定两种。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;知人判定：商人角色在[亲和修正值 + 2D]判定成功后可以认为游戏中出现的人物是以前的熟人&lt;/li&gt;
+&lt;li&gt;朋友判定：商人角色在[亲和修正值 + 2D]判定成功后可以与游戏中出现的人物成为朋友&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;命数&#34;&gt;命数
+&lt;/h2&gt;&lt;p&gt;《三国演义》常常发生奇迹般的幸运和无法避免的悲剧。将其规则化的便是“命数”及其相关规则。命数用于作为与幸运和命运相关的一般行为判定的参数。数值为 1~100。降低为 0 则人物死亡。人物可以消耗自己的命数来让自己在行为判定中占据优势（通过一些偶然因素）。比如消耗 50 点可以让战斗中的死亡取消。&lt;br&gt;
+命数可以通过祈祷或实施善行增加，也会因为极端恶行或遭受拷问等削弱生命的折磨时减少。&lt;/p&gt;
+&lt;h2 id=&#34;成长&#34;&gt;成长
+&lt;/h2&gt;&lt;p&gt;可以使用获得的经验值提升技能或增长能力值（不能让命数增加）。&lt;/p&gt;
+&lt;h1 id=&#34;个人感想&#34;&gt;个人感想
+&lt;/h1&gt;&lt;p&gt;设计的非常有意思的规则，每种类人物都有其独特的玩法系统，把人物台词做成技能很有画面感，三十六计也给予了充分的自由度去使用，战斗用推格子解决也很有意思。&lt;br&gt;
+啊，好想看扩展，好想看扩展，让我再看看内政跟合战规则吧（哭&lt;/p&gt;
+&lt;h1 id=&#34;相关信息&#34;&gt;相关信息
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;相关网址&lt;/strong&gt;&lt;br&gt;
+Wikipedia页面: &lt;a class=&#34;link&#34; href=&#34;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%94%E6%8A%80&lt;/a&gt;&lt;br&gt;
+维基数据项: &lt;a class=&#34;link&#34; href=&#34;https://www.wikidata.org/wiki/Special:EntityPage/Q11354788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.wikidata.org/wiki/Special:EntityPage/Q11354788&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>ＵＲＥＧ（アレグ）メイキングアレグ【ＴＲＰＧ風協力脱出ゲーム　Un Realistic Escape Game】</title>
         <link>https://our1111122222.github.io/p/%EF%BD%95%EF%BD%92%EF%BD%85%EF%BD%87%E3%82%A2%E3%83%AC%E3%82%B0%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%AC%E3%82%B0%EF%BD%94%EF%BD%92%EF%BD%90%EF%BD%87%E9%A2%A8%E5%8D%94%E5%8A%9B%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0-un-realistic-escape-game/</link>
         <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
